@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./_attachments",
+  "promptDelete": false,
+  "useMarkdownLinks": false
+}
