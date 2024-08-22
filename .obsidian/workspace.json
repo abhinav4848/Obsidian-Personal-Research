@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perfect day exercise.md",
+                "file": "Brian Cox (British physicist).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perfect day exercise.md",
+                "file": "Brian Cox (British physicist).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perfect day exercise.md",
+                "file": "Brian Cox (British physicist).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perfect day exercise.md"
+                "file": "Brian Cox (British physicist).md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "c2dcd5c91ea796b3",
   "lastOpenFiles": [
-    "obsidian-general-selfhelp",
-    "Perfect day exercise.md",
-    "Brian Cox (British physicist).md",
     "Martha Beck (life coach).md",
+    "Perfect day exercise.md",
+    "obsidian-general-selfhelp",
+    "Brian Cox (British physicist).md",
     "Andy Matuschak/incremental reading (✔).md",
     "desktop.ini",
     "Ideaverse/Home.md",
@@ -208,7 +208,6 @@
     "Ideaverse/Efforts/Ongoing",
     "Ideaverse/Efforts/On",
     "Ideaverse/Efforts/Notes/UCLA Supercharge Course",
-    "Ideaverse/Efforts/Notes/My Newsletters",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
 }
