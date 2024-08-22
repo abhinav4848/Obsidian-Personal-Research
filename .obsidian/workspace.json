@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martha Beck (life coach).md",
+                "file": "Own notes/People/Martha Beck (life coach).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brian Cox (British physicist).md",
+                "file": "Own notes/People/Brian Cox (British physicist).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brian Cox (British physicist).md",
+                "file": "Own notes/People/Brian Cox (British physicist).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brian Cox (British physicist).md",
+                "file": "Own notes/People/Brian Cox (British physicist).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brian Cox (British physicist).md"
+                "file": "Own notes/People/Brian Cox (British physicist).md"
               }
             }
           }
@@ -162,11 +162,11 @@
   },
   "active": "89b29ae690c7f770",
   "lastOpenFiles": [
-    "People",
-    "Martha Beck (life coach).md",
+    "Own notes/People",
+    "Own notes/People/Martha Beck (life coach).md",
     "Perfect day exercise.md",
     "obsidian-general-selfhelp",
-    "Brian Cox (British physicist).md",
+    "Own notes/People/Brian Cox (British physicist).md",
     "Andy Matuschak/incremental reading (✔).md",
     "desktop.ini",
     "Ideaverse/Home.md",
