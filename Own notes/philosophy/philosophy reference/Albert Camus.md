@@ -1,0 +1,1 @@
+Twentieth century French existentialist, [[absurdism|absurdist]].

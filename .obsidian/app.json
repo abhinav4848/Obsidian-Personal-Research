@@ -3,5 +3,6 @@
   "trashOption": "local",
   "attachmentFolderPath": "./_attachments",
   "promptDelete": false,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }

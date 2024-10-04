@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a368c0326850afa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Own notes/philosophy/What is a good life.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compounding Knowledge.md",
+                "file": "Own notes/philosophy/What is a good life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compounding Knowledge.md",
+                "file": "Own notes/philosophy/What is a good life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compounding Knowledge.md"
+                "file": "Own notes/philosophy/What is a good life.md"
               }
             }
           }
@@ -186,12 +199,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "430820b29eedc79f",
+  "active": "89b29ae690c7f770",
   "lastOpenFiles": [
-    "desktop.ini",
-    "Untitled.md",
-    "Own notes/People/Martha Beck (life coach).md",
+    "Own notes/philosophy/philosophy reference/Epicurus.md",
+    "Own notes/philosophy/philosophy reference/Albert Camus.md",
+    "absurdism.md",
+    "absurdist.md",
+    "Own notes/philosophy/What is a good life.md",
+    "Own notes/philosophy/philosophy reference/Aristotle.md",
+    "Own notes/philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
+    "Own notes/philosophy/philosophy reference/Robert Nozick.md",
+    "Ideaverse/Atlas/Maps/Book.md",
+    "Own notes/philosophy/philosophy reference/Sisyphus.md",
+    "Own notes/stories",
+    "Own notes/philosophy/philosophy reference",
     "Compounding Knowledge.md",
+    "Own notes/Rituals/Perfect day exercise.md",
+    "Own notes/People/Martha Beck (life coach).md",
+    "Own notes/philosophy/philosophy reference/Bertrand Russell.md",
+    "Own notes/philosophy/philosophy reference/Simon Blackburn.md",
+    "Own notes/philosophy/philosophy reference/Socrates.md",
+    "Socrates.md",
+    "Albert Camus.md",
+    "What is a good life.md",
+    "Own notes/philosophy/_attachments",
+    "LizardsFromOuterSpace/_Resources.md",
+    "Own notes/philosophy",
+    "Own notes/philosophers",
+    "ReadMe.md",
+    "desktop.ini",
     "Own notes/Rules, Laws/Untitled.md",
     "Own notes/Rules, Laws/_attachments",
     "Own notes/Rules, Laws/No True Scotsman fallacy.md",
@@ -200,27 +236,8 @@
     "Own notes/Rules, Laws",
     "Own notes/Rituals",
     "Own notes/People",
-    "Own notes/Rituals/Perfect day exercise.md",
-    "obsidian-general-selfhelp",
     "Andy Matuschak/incremental reading (✔).md",
-    "Ideaverse/Home.md",
-    "ReadMe.md",
-    "Own notes",
-    "Andy Matuschak/Cloze Deletion.md",
-    "LizardsFromOuterSpace/230- Summarization and Paraphrasing in Note Taking.md",
-    "LizardsFromOuterSpace/039- Abstract Knowledge.md",
-    "LizardsFromOuterSpace/_Resources.md",
-    "Ideaverse/Atlas/Notes/Ideas/What is a note.md",
-    "Ideaverse/Atlas/Notes/Ideas/Note-takers.md",
-    "Andy Matuschak/Literature notes are secondary and separate.md",
     "making canvas in obsidian.canvas",
-    "Andy Matuschak/Are literature notes necessary if we have automatic universal backlinks.md",
-    "Ideaverse/Atlas/Notes/Ideas/Some Allusions from Literature.md",
-    "LizardsFromOuterSpace/002- Zettelkasten.md",
-    "Ideaverse/Atlas/Notes/Ideas/Like begets like.md",
-    "Andy Matuschak/Backlinks can be used to implicitly define nodes in knowledge management systems.md",
-    "Ideaverse/Atlas/Maps/Library.md",
-    "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
     "_attachments/Ideaverse/ptolemy-model.png",
     "_attachments/Ideaverse/robert-mccall-A_Decade_of_Achievement_narrow.png",
     "_attachments/Ideaverse/robert-mccall-black-hole-concept-art copy.jpg",
@@ -231,9 +248,6 @@
     "_attachments/Ideaverse/sort-by-file-name-a-to-z.png",
     "_attachments/Ideaverse/stay-on-target.jpg",
     "_attachments/Ideaverse/whelan-space-station-1978-mod.jpg",
-    "_attachments/Ideaverse/Images",
-    "_attachments/Ideaverse",
-    "Ideaverse/Efforts/Sleeping",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
 }

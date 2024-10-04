@@ -1,21 +1,18 @@
 {
-  "moveAttachmentsWithNote": false,
+  "autoCollectAttachments": false,
+  "changeNoteBacklinksAlt": false,
+  "consistencyReportFile": "_housekeeping/consistency-report.md",
   "deleteAttachmentsWithNote": true,
-  "updateLinks": true,
   "deleteEmptyFolders": true,
   "deleteExistFilesWhenMoveNote": true,
-  "changeNoteBacklinksAlt": false,
+  "ignoreFiles": [
+    "consistency\\-report\\.md"
+  ],
   "ignoreFolders": [
     ".git/",
     ".obsidian/"
   ],
-  "ignoreFiles": [
-    "consistency\\-report\\.md"
-  ],
-  "ignoreFilesRegex": [
-    {}
-  ],
-  "attachmentsSubfolder": "",
-  "consistencyReportFile": "_housekeeping/consistency-report.md",
-  "useBuiltInObsidianLinkCaching": false
+  "moveAttachmentsWithNote": false,
+  "showWarning": true,
+  "updateLinks": true
 }

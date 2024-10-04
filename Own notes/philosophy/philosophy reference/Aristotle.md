@@ -1,0 +1,1 @@
+his philosophical progenitor was [[Socrates]].
