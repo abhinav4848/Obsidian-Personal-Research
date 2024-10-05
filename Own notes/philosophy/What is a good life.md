@@ -1,7 +1,7 @@
 ---
 URL: https://philosophynow.org/issues/162/Philosophers_Exploring_The_Good_Life
 ---
-Here’s a summary of the views from different philosophers regarding the concept of a 'good life' from the article:
+ Is it a question about a moral life, a life of pleasure, a question of meaning, or is it about self-development and self-actualisation?
 
 ## [[Socrates]]
 A good life is an examined life. It involves constant philosophical inquiry and self-knowledge. Reflection and questioning are essential to living well.

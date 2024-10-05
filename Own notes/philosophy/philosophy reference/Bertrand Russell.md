@@ -1,0 +1,1 @@
+author of _The Problems of Philosophy_ (1912)
