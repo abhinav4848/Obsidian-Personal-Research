@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/philosophy/What is a good life.md",
+                "file": "Own notes/philosophy/philosophy reference/Plato.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/philosophy/What is a good life.md",
+                "file": "Own notes/philosophy/philosophy reference/Plato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/philosophy/What is a good life.md",
+                "file": "Own notes/philosophy/philosophy reference/Plato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own notes/philosophy/What is a good life.md"
+                "file": "Own notes/philosophy/philosophy reference/Plato.md"
               }
             }
           }
@@ -201,6 +201,9 @@
   },
   "active": "a368c0326850afa1",
   "lastOpenFiles": [
+    "Own notes/philosophy/philosophy reference/Socrates.md",
+    "Own notes/philosophy/philosophy reference/Xenophon.md",
+    "Own notes/philosophy/philosophy reference/Aristotle.md",
     "Own notes/philosophy/philosophy reference/Plato.md",
     "Own notes/philosophy/What is a good life.md",
     "Own notes/philosophy/philosophy reference/Simon Blackburn.md",
@@ -210,7 +213,6 @@
     "Own notes/philosophy/philosophy reference/Epicurus.md",
     "absurdism.md",
     "absurdist.md",
-    "Own notes/philosophy/philosophy reference/Aristotle.md",
     "Own notes/philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
     "Own notes/philosophy/philosophy reference/Robert Nozick.md",
     "Ideaverse/Atlas/Maps/Book.md",
@@ -220,7 +222,6 @@
     "Compounding Knowledge.md",
     "Own notes/Rituals/Perfect day exercise.md",
     "Own notes/People/Martha Beck (life coach).md",
-    "Own notes/philosophy/philosophy reference/Socrates.md",
     "Socrates.md",
     "Albert Camus.md",
     "What is a good life.md",
@@ -232,7 +233,6 @@
     "desktop.ini",
     "Own notes/Rules, Laws/Untitled.md",
     "Own notes/Rules, Laws/_attachments",
-    "Own notes/Rules, Laws/No True Scotsman fallacy.md",
     "Own notes/Rules, Laws/No True Scotsman fallacy.md",
     "Own notes/Rules, Laws",
     "Own notes/Rituals",
