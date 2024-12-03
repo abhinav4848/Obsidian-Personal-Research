@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Martha Beck (life coach)"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Brian Cox (British physicist)"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "No True Scotsman fallacy"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Compounding Knowledge"
             }
           },
           {
@@ -69,11 +77,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plato"
+            }
+          },
+          {
+            "id": "36d617d37bce9c25",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +115,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -108,7 +132,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -116,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -139,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/philosophy/philosophy reference/Plato.md",
+                "file": "Own notes/People/Martha Beck (life coach).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +175,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Martha Beck (life coach)"
             }
           },
           {
@@ -156,10 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/philosophy/philosophy reference/Plato.md",
+                "file": "Own notes/People/Martha Beck (life coach).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Martha Beck (life coach)"
             }
           },
           {
@@ -170,7 +202,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -179,8 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own notes/philosophy/philosophy reference/Plato.md"
-              }
+                "file": "Own notes/People/Martha Beck (life coach).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Martha Beck (life coach)"
             }
           }
         ]
@@ -199,7 +235,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a368c0326850afa1",
+  "active": "36d617d37bce9c25",
   "lastOpenFiles": [
     "Own notes/philosophy/philosophy reference/Socrates.md",
     "Own notes/philosophy/philosophy reference/Xenophon.md",
