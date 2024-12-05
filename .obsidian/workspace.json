@@ -81,18 +81,6 @@
               "icon": "lucide-file",
               "title": "Plato"
             }
-          },
-          {
-            "id": "36d617d37bce9c25",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ]
       }
@@ -236,11 +224,11 @@
   },
   "active": "7aa4033933ed8769",
   "lastOpenFiles": [
+    "Own notes/philosophy/philosophy reference/Plato.md",
     "desktop.ini",
     "Own notes/People/Brian Cox (British physicist).md",
     "Own notes/Rules, Laws/No True Scotsman fallacy.md",
     "Compounding Knowledge.md",
-    "Own notes/philosophy/philosophy reference/Plato.md",
     "Own notes/philosophy/philosophy reference/Socrates.md",
     "Own notes/philosophy/philosophy reference/Xenophon.md",
     "Own notes/philosophy/philosophy reference/Aristotle.md",
