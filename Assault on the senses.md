@@ -1,0 +1,13 @@
+Found this tweet: 
+> living in a shitty apartment amongst the poor people isn't bad *objectively*, you still have food, still have running water, heat etc., what makes your overall experience miserable is the constant assault on your senses. The people are fat, ugly, poorly dressed, and NOISY. 
+
+I say the same thing for Indian people in general. I am an Indian and it bothers me to see obese, unkempt Indians especially in the west. They continue to eat unhealthy oil laden food. Tons of oil in every single dish. Plenty of rice to go with it. Expanding waistline. It's true that they also end up succeeding quite a lot in their careers but their neglect of their own bodies is concerning. 
+
+## Full tweet:
+Living in a shitty apartment amongst the poor people isn't bad *objectively*, you still have food, still have running water, heat etc., what makes your overall experience miserable is the constant assault on your senses. The people are fat, ugly, poorly dressed and NOISY.  You have no earthly idea how *noisy* everything is. Your apartment walls are thin as paper, you hear your roommate shit, your neighbors son stomp and scream in the mornings, you hear it when the guy in the apartment to your right is eating out his girlfriend from behind.
+
+You try to escape, to go to the library, the city center. You get to the bus stop, congrats, there's a homeless guy there. Now you can't relax, no you need to pay attention, can't immerse yourself in a book or an article. Is that a glass bottle in his hand? Is he gonna stab me?
+
+Just *how hungry* is he? The bus pulls up. thank god. you sit down, finally, some peace. Pull out your book, one station, then another. phew. Is this my lucky day? A teenager comes in, sits across from you, pulls out his phone, opens up TikTok. no headphones, of course not.
+
+There are no lucky days. You put away your book, in with the headphones. Put on some jazz, duke Ellington, very relaxing. time to exit the bus,  a single mother with pink hair is trying to get her stroller out, she's yelling at the bus driver to lower the bus, he doesn't seem to hear her, now she's yelling something about learning German and migrants. You help her with her stroller, but a good deed never goes unpunished and as you turn around there is yet another homeless man, looking oddly like Gregory Perelman, approaching everyone who isn't quick enough and begging for something. "PLEASE HELP ME" he keeps repeating, he has been doing so for days, never elaborating what exactly he might need help with, food? drink? shelter? His harmonic analysis homework? unclear.
