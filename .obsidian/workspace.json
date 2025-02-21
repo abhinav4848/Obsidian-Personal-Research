@@ -28,13 +28,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/philosophy/philosophy reference/Xenophon.md",
+                "file": "first principles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xenophon"
+              "title": "first principles"
+            }
+          },
+          {
+            "id": "c0bbe7741bdbf85c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecturing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecturing"
+            }
+          },
+          {
+            "id": "9660f0ae85cf2389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of Christianity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Christianity"
+            }
+          },
+          {
+            "id": "8f72011917fde08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vygotsky.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vygotsky"
             }
           },
           {
@@ -98,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/philosophy/philosophy reference/Xenophon.md",
+                "file": "Types of Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xenophon"
+              "title": "Backlinks for Types of Christianity"
             }
           },
           {
@@ -238,24 +283,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ece3680a6f7313",
+  "active": "9660f0ae85cf2389",
   "lastOpenFiles": [
+    "Lecturing.md",
+    "Types of Christianity.md",
+    "Vygotsky.md",
+    "first principles.md",
+    "ReadMe.md",
+    "Own notes/philosophy/philosophy reference/existentialist.md",
+    "Compounding Knowledge.md",
+    "Assault on the senses.md",
+    "Own notes/philosophy/philosophy reference/Xenophon.md",
     "desktop.ini",
     "Own notes/philosophy/philosophy reference/Aristotle.md",
     "Own notes/philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
     "Own notes/philosophy/philosophy reference/Albert Camus.md",
     "Own notes/philosophy/philosophy reference/Bertrand Russell.md",
-    "Assault on the senses.md",
-    "first principles.md",
-    "Compounding Knowledge.md",
-    "existentialist.md",
     "LizardsFromOuterSpace/027 - Core Note Functions.md",
     "Own notes/Public People/Martha Beck (life coach).md",
     "Own notes/philosophy/philosophy reference/Plato.md",
     "Own notes/Public People/Brian Cox (British physicist).md",
     "Own notes/Rules, Laws/No True Scotsman fallacy.md",
     "Own notes/philosophy/philosophy reference/Socrates.md",
-    "Own notes/philosophy/philosophy reference/Xenophon.md",
     "Own notes/philosophy/What is a good life.md",
     "Own notes/philosophy/philosophy reference/Simon Blackburn.md",
     "Own notes/philosophy/philosophy reference/Epicurus.md",
@@ -263,11 +312,8 @@
     "absurdist.md",
     "Own notes/philosophy/philosophy reference/Robert Nozick.md",
     "Ideaverse/Atlas/Maps/Book.md",
-    "Own notes/philosophy/philosophy reference/Sisyphus.md",
     "Own notes/stories",
     "Own notes/philosophy/philosophy reference",
-    "Own notes/Rituals/Perfect day exercise.md",
-    "Socrates.md",
     "Own notes/philosophy/_attachments",
     "Own notes/philosophy",
     "Own notes/philosophers",
