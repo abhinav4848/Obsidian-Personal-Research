@@ -28,137 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first principles.md",
+                "file": "Own notes/philosophy/philosophy reference/Epicurus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first principles"
-            }
-          },
-          {
-            "id": "c0bbe7741bdbf85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecturing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecturing"
-            }
-          },
-          {
-            "id": "9660f0ae85cf2389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of Christianity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of Christianity"
-            }
-          },
-          {
-            "id": "250ac7ccc010fdaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contextual collapse.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contextual collapse"
-            }
-          },
-          {
-            "id": "8f72011917fde08b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vygotsky.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vygotsky"
-            }
-          },
-          {
-            "id": "c2dcd5c91ea796b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/People/Brian Cox (British physicist).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brian Cox (British physicist)"
-            }
-          },
-          {
-            "id": "96aada93e546471c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Rules, Laws/No True Scotsman fallacy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "No True Scotsman fallacy"
-            }
-          },
-          {
-            "id": "430820b29eedc79f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compounding Knowledge.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compounding Knowledge"
-            }
-          },
-          {
-            "id": "a368c0326850afa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/philosophy/philosophy reference/Plato.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plato"
+              "title": "Epicurus"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contextual collapse.md",
+                "file": "Own notes/philosophy/philosophy reference/Epicurus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contextual collapse"
+              "title": "Backlinks for Epicurus"
             }
           },
           {
@@ -298,14 +178,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "250ac7ccc010fdaa",
+  "active": "71ece3680a6f7313",
   "lastOpenFiles": [
+    "Own notes/philosophy/philosophy reference/_attachments/78prgo8dcoo61 now farewell, and remember all my words- epicurus.png",
+    "first principles.md",
+    "Lecturing.md",
+    "Own notes/philosophy/philosophy reference/Socrates.md",
+    "Own notes/philosophy/philosophy reference/Plato.md",
+    "Own notes/Rules, Laws/No True Scotsman fallacy.md",
+    "Own notes/philosophy/philosophy reference/_attachments/mediocrtates.png",
+    "Own notes/philosophy/philosophy reference/_attachments",
+    "contextual collapse.md",
     "desktop.ini",
     "Types of Christianity.md",
-    "contextual collapse.md",
-    "Lecturing.md",
     "Vygotsky.md",
-    "first principles.md",
     "ReadMe.md",
     "Own notes/philosophy/philosophy reference/existentialist.md",
     "Compounding Knowledge.md",
@@ -317,10 +203,7 @@
     "Own notes/philosophy/philosophy reference/Bertrand Russell.md",
     "LizardsFromOuterSpace/027 - Core Note Functions.md",
     "Own notes/Public People/Martha Beck (life coach).md",
-    "Own notes/philosophy/philosophy reference/Plato.md",
     "Own notes/Public People/Brian Cox (British physicist).md",
-    "Own notes/Rules, Laws/No True Scotsman fallacy.md",
-    "Own notes/philosophy/philosophy reference/Socrates.md",
     "Own notes/philosophy/What is a good life.md",
     "Own notes/philosophy/philosophy reference/Simon Blackburn.md",
     "Own notes/philosophy/philosophy reference/Epicurus.md",
@@ -334,7 +217,6 @@
     "Own notes/Rules, Laws/_attachments",
     "Own notes/Rules, Laws",
     "Own notes/Rituals",
-    "Own notes/Public People",
     "making canvas in obsidian.canvas",
     "_attachments/Ideaverse/ptolemy-model.png",
     "_attachments/Ideaverse/robert-mccall-A_Decade_of_Achievement_narrow.png",
@@ -345,7 +227,6 @@
     "_attachments/Ideaverse/robert-mccall-space-ship-launch-narrower.png",
     "_attachments/Ideaverse/sort-by-file-name-a-to-z.png",
     "_attachments/Ideaverse/stay-on-target.jpg",
-    "_attachments/Ideaverse/whelan-space-station-1978-mod.jpg",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
 }
