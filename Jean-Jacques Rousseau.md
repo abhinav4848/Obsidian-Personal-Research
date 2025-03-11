@@ -1,0 +1,1 @@
+It is precisely in nature that we are happies. Primitive, yes, but compassionate and unburdened by societal desires. 

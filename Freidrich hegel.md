@@ -1,0 +1,1 @@
+There is no state of nature. Every person must be understood contextually to their own time and place. We change with our societies. 

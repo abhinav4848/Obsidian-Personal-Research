@@ -1,0 +1,1 @@
+The of nature is a state of war - We are all inherently cruel, violent & brutish. 
