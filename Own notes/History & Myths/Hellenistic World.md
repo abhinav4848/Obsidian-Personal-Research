@@ -37,6 +37,7 @@ Monarchy (753-509 BC)- Starts with Romulus
 Republic (509-31 BC)- The mixed constitution admired by Polybius. 
 Empire (31BC-476 AD)- Reverted to one man rule under the emperors. This era began with victory of Augustus, the first emperor over his rival, Mark Antony. The end is not certain. 
 
+# Monarchy
 ## Roman customs
 1. **Pomerium** – The _pomerium_ was the sacred boundary of Rome, marked by Romulus when he founded the city. It was a religious border, beyond which no weapons could be carried, and no buildings constructed. It symbolized the separation between the city of the living (civitas) and the realm of the dead.
 2. **Rape of the Sabine Women** – After founding Rome, Romulus and his mostly male followers needed wives. They invited the neighboring Sabines to a festival and, during the event, seized and married the Sabine women. This led to a war, but the women eventually intervened, stopping the fighting and leading to a peaceful merger between the Romans and Sabines.
@@ -47,6 +48,17 @@ Empire (31BC-476 AD)- Reverted to one man rule under the emperors. This era bega
 ## Numa Pompilius
 He set up many religious institutions of Rome. He created the office of chief priest, known as Pontifex Maximus which was later adopted by the catholic church as the official title of the Pope. He built a temple of Janus, and said when Rome was at war, door should be open else closed. 
 He also fixed the Roman calendar. 
-
 ### Cloaca maxima
-was used to drain sewer waste into Tiber river. Can still be seen today. 
+Built by him. Was used to drain sewer waste into Tiber river. Can still be seen today. 
+## Heroes of this era
+Mucius, Horatius, Cincinnatus
+## End of this era
+At the end of this era, the last 2 kings were supposed to be from The Ertuscans region. The last one was Lucius Tarquinius Superbus (Tarquin the Proud). He ruled from around **535–509 BCE** and was known for his tyranny and oppressive rule. This led to some bitterness among Romans that a great kingdom like theirs was being ruled by an outsider. 
+# Republic
+Up until 500BC, the city of Rome was just one among the many cities in Italy. At this point, they converted their government to the republic style. 
+There were other cities like (From North to South): Gauls, Ertuscans, Umbrians, Sabines, Rome, Latins, Samnites, Greeks.
+## Lucretia
+[Lucretia](https://en.wikipedia.org/wiki/Lucretia) was the heroine of this era. 
+
+The last king of Rome was **Lucius Tarquinius Superbus** . His downfall came after the **rape of Lucretia**, a noblewoman who was assaulted by his son, Sextus Tarquinius. This led to an uprising led by **Lucius Junius Brutus**, which resulted in the expulsion of Tarquin and the abolition of the monarchy. Rome then transitioned into a **Republic**, governed by elected magistrates and a Senate.
+

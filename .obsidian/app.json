@@ -4,5 +4,7 @@
   "attachmentFolderPath": "./_attachments",
   "promptDelete": false,
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "showLineNumber": true,
+  "readableLineLength": true
 }
