@@ -62,3 +62,5 @@ There were other cities like (From North to South): Gauls, Ertuscans, Umbrians, 
 
 The last king of Rome was **Lucius Tarquinius Superbus** . His downfall came after the **rape of Lucretia**, a noblewoman who was assaulted by his son, Sextus Tarquinius. This led to an uprising led by **Lucius Junius Brutus**, which resulted in the expulsion of Tarquin and the abolition of the monarchy. Rome then transitioned into a **Republic**, governed by elected magistrates and a Senate.
 
+## Roman Senate
+An advisory council of the Republic. They wore Togas with purple stripe. Membership was for life. Almost everything it recommended came to pass. 
