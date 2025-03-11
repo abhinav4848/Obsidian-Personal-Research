@@ -2,7 +2,7 @@
 1. Originated in 15th century, from Late Latin 'lectura' – to read.
 2. A discourse given before an audience or class, especially for instruction.
 
-Well-designed programs, modules or learning encounters facilitate learners in developing their knowledge, understanding and skills through 'scaffolding' of learning events. The concept of scaffolding is derived from the work of the Russian psychologist [[Vygotsky]] as well as others (such as Bruner) who researched into early language development.
+Well-designed programs, modules or learning encounters facilitate learners in developing their knowledge, understanding and skills through 'scaffolding' of learning events. The concept of scaffolding is derived from the work of the Russian psychologist [[Lev Vygotsky]] as well as others (such as Bruner) who researched into early language development.
 
 This is best achieved through structuring learning so that learners engage meaningfully with appropriate topics and tasks, taking on more responsibility for their own learning as they become more competent.
 
