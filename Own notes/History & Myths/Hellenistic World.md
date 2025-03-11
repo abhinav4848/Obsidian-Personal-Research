@@ -64,3 +64,24 @@ The last king of Rome was **Lucius Tarquinius Superbus** . His downfall came aft
 
 ## Roman Senate
 An advisory council of the Republic. They wore Togas with purple stripe. Membership was for life. Almost everything it recommended came to pass. 
+
+Roman wars: By 264BC, Rome had conquered the entire Italy. 
+## Gauls
+### Servian Wall
+The **Servian Wall** was a defensive barrier built around **Rome in the early 4th century BCE**, traditionally attributed to **King Servius Tullius** (the sixth king of Rome, who lived 200 years earlier). In reality, it was actually constructed **after the Gallic Sack of Rome in 390 BCE** to fortify the city against future invasions.
+- **Gallic Invasion (390 BCE)** – After the **Gauls, led by Brennus, sacked Rome**, the Romans realized their city was vulnerable. In response, they built a **massive defensive wall** using **tufa stone** from nearby quarries.
+- **Structure & Features** – The wall was **11 km (7 miles) long, up to 10m (33 ft) high, and 3.6m (12 ft) thick**, encircling Rome's seven hills, including Capitoline, Palatine, Aventine hills. 
+- **Later Use** – It remained Rome's main defense until it was replaced by the **Aurelian Walls** in the **3rd century CE**, when the city expanded beyond the original boundaries.
+
+Though named after Servius Tullius, the wall was primarily a **Republican-era construction**, meant to protect Rome after its near destruction by the Gauls.
+## Samnites
+Romans had 3 wars with them. Third war lasted until 290BC. In this war, all other countries joined together at the Battle of Sentinum- Rome won. 
+
+## Greeks
+Mercenaries from mainland Greece, under the leadership of King Pyrrhus of Epirus came to the South of Italy and fought 2 wars with Romans. 
+A **Pyrrhic victory** is a win that comes at such a great cost that it is almost as bad as a defeat. **King Pyrrhus of Epirus** fought the Romans in **280–275 BCE**, and although he won the battles, his army suffered **huge losses** that he couldn't replace.
+
+After one such battle, Pyrrhus reportedly said:  
+_"If we are victorious in one more battle with the Romans, we shall be utterly ruined."_
+
+In modern usage, a **Pyrrhic victory** refers to any success that comes with excessive sacrifices, making it **hollow or unsustainable**.
