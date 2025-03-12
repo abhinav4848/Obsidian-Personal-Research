@@ -18,7 +18,7 @@ Starting some days, I'll consider how to apply three *strategic* mental models: 
 For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting [[Reps]], creating the conditions for [[Flow]], which involves environmental  [[Forcing Function|Forcing Functions]], and considering when I can multitask [[Shadow Clone]]. 
 
 > [!Connect]- A single concept opens up new ways of looking at the world
-> ![[McCall-pen-sketch-narrow.jpg]]
+> ![[Ideaverse/_attachments/McCall-pen-sketch-narrow.jpg]]
 
 [[Natural Selection]] is one of the mega-concepts. It helps me decipher the signal from the noise through the mechanism of considering the [[Lindy Effect]], along with [[Hormesis]] and [[Antifragility]]—and also more broadly [[Cause and Effect]]. This reminds me of [[Concept Expansion]].
 

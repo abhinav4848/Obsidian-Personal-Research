@@ -9,7 +9,7 @@ dates: 1934 - 2021
 ---
 Mihaly Csikszentmihalyi is the author of [[1990 - Flow]] (not included in Ideaverse for Obsidian). Flow remains one of the most influential books on my thinking.
 
-![[flow-map-original.jpg]]
+![[Ideaverse/_attachments/flow-map-original.jpg]]
 
 
 ## Extra

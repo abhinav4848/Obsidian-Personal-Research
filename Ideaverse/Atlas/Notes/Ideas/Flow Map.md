@@ -8,11 +8,11 @@ created: 2016-06-01
 
 The [[Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
-![[flow-zone-channel.jpg]]
+![[Ideaverse/_attachments/flow-zone-channel.jpg]]
 
 Later on, Dr. Mihaly used this version to show the different states of mind plotted on the map of Challenge vs Skill.
 
-![[flow-map-original.jpg]]
+![[Ideaverse/_attachments/flow-map-original.jpg]]
 
 ### What is my Contribution to Flow Theory?
 
@@ -30,6 +30,6 @@ So you can use the Flow Map as a "State of Mind" Map—a useful guide to manage 
 Say, someone is anxious: they can point to "Anxiety" on the Flow Map and then have a few ideas how to get closer to "Optimal Experience" (Flow). See below:
 
 The obvious answer for creating the [[Conditions of Flow]] is to reduce the level of Challenge or to increase the level of Skill (as the map above shows).
-![[flow-map.png]]
+![[Ideaverse/_attachments/flow-map.png]]
 
 The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[FlowCreation Theory]]. 

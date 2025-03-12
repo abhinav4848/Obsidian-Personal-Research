@@ -57,7 +57,7 @@ In all these examples, the projects have completion dates. They are either compl
 # Example
 
 Image of folder breakdown in Obsidian
- ![](_attachments/PARA%20Structure.png)
+ ![](PARA%20Structure.png)
 
 ## References
 

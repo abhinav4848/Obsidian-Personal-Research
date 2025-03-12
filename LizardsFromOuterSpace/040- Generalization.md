@@ -6,7 +6,7 @@ You also see this process happening with memory, where information disappears as
 
 See [Memory Consolidation](https://www.wikiwand.com/en/Memory_consolidation)
 
-![](_attachments/Generalization.png)
+![](Generalization.png)
 # Reference
 
 1. [Wozniak 2020 19](https://supermemo.guru/wiki/Abstract_knowledge)

@@ -30,7 +30,7 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 
 > [!HINT]- This data view 🔬 only renders in the free downloadable version.
 > You won't be able to see the magic unless you [download the kit](https://www.linkingyourthinking.com/download-lyt-kit), but here's what it looks like in "Ideaverse for Obsidian"
-> ![[lyt-kit-example-cooling-pad-.png]]
+> ![[Ideaverse/_attachments/lyt-kit-example-cooling-pad-.png]]
 
 ---
 

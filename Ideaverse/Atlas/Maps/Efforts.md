@@ -47,6 +47,6 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 > - [[How ideas and efforts play nicely together]]
 > - [[The big differences between efforts and projects]]
 >   
->   ![[robert-mccall-black-hole-concept-art copy.jpg]]
+>   ![[Ideaverse/_attachments/robert-mccall-black-hole-concept-art copy.jpg]]
 
 Back to [[Home]].

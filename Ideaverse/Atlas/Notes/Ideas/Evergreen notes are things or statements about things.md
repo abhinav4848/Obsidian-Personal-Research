@@ -19,7 +19,7 @@ These THING-based notes will naturally spawn ideas of your own that have clear o
 - A note on `[[Defining a variable]]` (Clear Thing) can link to a personalized note on `[[Understanding variables leads to higher level thinking]]` (Clear Opinion).
 - A note on the concept `[[Like begets like]]` (kinda both Clear Opinion and Fact) can link to the opinion `[[The neural formation of habits are additive]]` (Clear Opinion) and a bunch of other notes. See this example below:
 
-![[lyt-note-links-to-other-notes.png]]
+![[Ideaverse/_attachments/lyt-note-links-to-other-notes.png]]
 
 In this way, Thing-based notes are sturdy dots that we can then connect to Opinion-based notes through the natural process of note-making.
 

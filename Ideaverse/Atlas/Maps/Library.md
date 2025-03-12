@@ -21,7 +21,7 @@ Navigate your library of maps with a classification system made specifically for
 > - 800 - *Literature*
 > - 900 - *History & Biography & Geography*
 > 
-> ![[whelan-space-station-1978-mod.jpg]]
+> ![[Ideaverse/_attachments/whelan-space-station-1978-mod.jpg]]
 > 
 > The LYT Classification System is ready-made to hold your diverse interests. 
 > 

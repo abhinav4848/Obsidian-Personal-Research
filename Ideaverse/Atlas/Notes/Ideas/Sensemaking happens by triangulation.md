@@ -28,14 +28,14 @@ Triangulation says *I am the ultimate sensemaking mechanism, to both the known a
 	- Use two known points to imagine a third point.
 
 ### Use two known points, to better understand a third point.
-![[feynman-triangulation-1.png]]
+![[Ideaverse/_attachments/feynman-triangulation-1.png]]
 
 
 ### Use two known points, to remember a forgotten third point.
-![[feynman-triangulation-2.png]]
+![[Ideaverse/_attachments/feynman-triangulation-2.png]]
 
 ### Use two known points to imagine a third point.
-![[feynman-triangulation-3.png]]
+![[Ideaverse/_attachments/feynman-triangulation-3.png]]
 
 **The third power of triangulation is basically [[Idea Emergence (defn)]]**. 
 
@@ -117,18 +117,18 @@ Use two points, to *understand* a third point.
 
 **The 2nd power of triangulation**
 Use two points, to *remember* a third point.
-![[feynman-triangulation-1.png]]
+![[Ideaverse/_attachments/feynman-triangulation-1.png]]
 
 ---
 **The 2nd power of triangulation**
 Use two points, to *remember* a third point.
-![[feynman-triangulation-2.png]]
+![[Ideaverse/_attachments/feynman-triangulation-2.png]]
 
 ---
 **The 3rd power of triangulation**
 Use two points to *imagine* a third point.
 
-![[feynman-triangulation-3.png]]
+![[Ideaverse/_attachments/feynman-triangulation-3.png]]
 
 ---
 

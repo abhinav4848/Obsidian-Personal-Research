@@ -1,8 +1,8 @@
 Royal babies in baskets is a popular motif of stories shared in many different cultures. 
-- Moses in Bible. 
-- King Gilgamesh of Sumeria
-- King Sargon of Akkad, in Mesopotamian culture
-- Greek Hero Perseus
-- German Hero Siegfried
-- Indian hero Karna
-- Chinese hero Xuanzang
+1. Moses in Bible. 
+2. King Gilgamesh of Sumeria
+3. King Sargon of Akkad, in Mesopotamian culture
+4. Greek Hero Perseus
+5. German Hero Siegfried
+6. Indian hero Karna
+7. Chinese hero Xuanzang

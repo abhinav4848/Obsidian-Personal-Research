@@ -13,7 +13,7 @@ Honor it. Keep it relevant. And give as much useable value as possible.
 - [[ Ideaverse Kit Launch (E) (Example)]]
 
 > [!Rocket]+ The Ship of the Ideator
-> ![[robert-mccall-space-ship-launch-mid.jpg]]
+> ![[Ideaverse/_attachments/robert-mccall-space-ship-launch-mid.jpg]]
 ## Previous efforts
 This has previously been the 🧰 LYT Kit.
 

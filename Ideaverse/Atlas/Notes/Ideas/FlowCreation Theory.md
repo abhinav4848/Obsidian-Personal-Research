@@ -8,7 +8,7 @@ created: 2020-06-01
 [[FlowCreation Theory]] is about creating the [[Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. %%(Nick, go deeper at [[Flow, Insights, and Acting cannot be forced]] - not included in the Ideaverse for Obsidian)%%
 
 Let's look at the Flow Map with a bunch of extra descriptors added:
-![[flow-map.png]]
+![[Ideaverse/_attachments/flow-map.png]]
 
 There are just two steps:
 1. Find your current state of mind—Maybe ask, "What am I feeling?" or "Where's my head at?" Use the [[Flow Map]] for this.
