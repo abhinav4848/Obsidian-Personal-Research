@@ -9,4 +9,4 @@ This approach was famously advocated by [[Aristotle]] and later popularized by E
 In essence, first principles thinking encourages a fresh perspective and enables breakthroughs by questioning assumptions and building solutions from the ground up.
 
 YouTube:
-https://www.youtube.com/watch?v=8hbGweed6-E&t=124s 
+[My Digital Note-Taking System | Idea Storage and Idea Factory - YouTube](https://www.youtube.com/watch?v=8hbGweed6-E&t=124s)
