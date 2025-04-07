@@ -11,4 +11,4 @@
 - [What have you gotten OUT of your Zettelkasten?](https://forum.zettelkasten.de/discussion/1276/what-have-you-gotten-out-of-your-zettelkasten) - Zettelkasten De Forum Post
 ## See Also
 [[Andy's Notes tips]]
-[[Bibliography]]
+[[Lizard men from space Bibliography]]

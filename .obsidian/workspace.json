@@ -4,101 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f1999104d54556d4",
+        "id": "37029ac4a3719ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "7aa4033933ed8769",
+            "id": "39f5cb4dda433665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thomas Hobbes"
-            }
-          },
-          {
-            "id": "96a4f24b3b23ea95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marcus Aurelius"
-            }
-          },
-          {
-            "id": "ae526de5ee493023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/History & Myths/Hellenistic World.md",
+                "file": "learned helplessness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hellenistic World"
-            }
-          },
-          {
-            "id": "0423abaf2a0f4f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Rituals/Perfect day exercise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Perfect day exercise"
-            }
-          },
-          {
-            "id": "6fdb813268a69f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Concepts/contextual collapse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "contextual collapse"
-            }
-          },
-          {
-            "id": "32e02a7d5b480629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LizardsFromOuterSpace/028- Mediums of Information Management.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "028- Mediums of Information Management"
+              "title": "learned helplessness"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LizardsFromOuterSpace/028- Mediums of Information Management.md",
+                "file": "learned helplessness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 028- Mediums of Information Management"
+              "title": "Backlinks for learned helplessness"
             }
           },
           {
@@ -239,38 +163,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32e02a7d5b480629",
+  "active": "39f5cb4dda433665",
   "lastOpenFiles": [
-    "LizardsFromOuterSpace/002- Zettelkasten.md",
-    "LizardsFromOuterSpace/028- Mediums of Information Management.md",
-    "LizardsFromOuterSpace/127- Tagging.md",
-    "LizardsFromOuterSpace/079- Cognitive Skills.md",
-    "LizardsFromOuterSpace/068- Knowledge work.md",
-    "LizardsFromOuterSpace/116- 21st Century Skills.md",
+    "Own notes/Concepts/Useful websites and links.md",
+    "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
+    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
+    "Own notes/History & Myths/Hellenistic World.md",
+    "Own notes/Rituals/Perfect day exercise.md",
     "Own notes/Concepts/contextual collapse.md",
-    "LizardsFromOuterSpace/073- Knowledge.md",
-    "Andy Matuschak/Knowledge work should accrete.md",
     "Andy Matuschak/Leaps of insight emerge from prior thought.md",
+    "Andy Matuschak/Knowledge work should accrete.md",
+    "LizardsFromOuterSpace/068- Knowledge work.md",
+    "LizardsFromOuterSpace/073- Knowledge.md",
+    "LizardsFromOuterSpace/UnNumbered/Lizard men from space Bibliography.md",
+    "LizardsFromOuterSpace/127- Tagging.md",
+    "LizardsFromOuterSpace/028- Mediums of Information Management.md",
+    "LizardsFromOuterSpace/002- Zettelkasten.md",
+    "LizardsFromOuterSpace/079- Cognitive Skills.md",
+    "LizardsFromOuterSpace/116- 21st Century Skills.md",
     "Own notes/Concepts/How to think.md",
     "Ideaverse/Atlas/Notes/Ideas/Idea Emergence (defn).md",
     "learned helplessness.md",
-    "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Concepts/first principles.md",
     "Own notes/Philosophy/philosophy reference/Aristotle.md",
     "Own notes/History & Myths/tied to a basket.md",
     "Own notes/Concepts/How to buy a business.md",
     "Own notes/Concepts/School syllabus is flawed.md",
-    "Own notes/History & Myths/Hellenistic World.md",
     "Own notes/Facts/Types of Christianity.md",
     "Own notes/Facts/_attachments/Pasted image 20250312214344.png",
     "Own notes/Facts/_attachments",
-    "LizardsFromOuterSpace/UnNumbered/Bibliography.md",
     "LizardsFromOuterSpace/_Resources.md",
-    "LizardsFromOuterSpace/UnNumbered/Andy's Notes tips.md",
     "LizardsFromOuterSpace/_attachments/Specialized vs General Knowledge.png",
     "Own notes/_attachments/Spaced Repetition- Before and after.png",
-    "Own notes/Concepts/Spaced Repetition.md",
-    "Own notes/Rituals/Perfect day exercise.md",
     "LizardsFromOuterSpace/_attachments/PARA Structure.png",
     "LizardsFromOuterSpace/_attachments/Lizard men from space-111.png",
     "LizardsFromOuterSpace/_attachments/Generalization.png",

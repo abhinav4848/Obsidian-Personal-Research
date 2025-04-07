@@ -29,7 +29,7 @@ Future of Information Storage returns to the roots of reality with the manipulat
 A lot of the programs are geared towards information storage and retrieval, basic functions of management. The next step that is being taken and is important to keep in mind for designing note software is tools for **knowledge development**. How can we help people
 
 - Connect Knowledge in meaningful ways?
-    - Contextual Information that is [surprising and useful](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/120)
+    - Contextual Information that is [[121- Unsurprising & Useful]]
     - Structural Connections that illustrate the connections in a model
 - Help facilitate the building of external models through note taking
 - Store Knowledge such that you can find all the relevant information when searching?
