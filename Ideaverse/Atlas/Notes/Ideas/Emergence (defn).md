@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 **Emergence** refers to the existence or formation of collective behaviors — what parts of a system do together that they would not do alone. 
 
 To quickly understand this amazing concept, I try to dumb it down and say *“Emergence is adding complexity.”* Or *“Emergence is when the new whole is greater than the sum of its parts.”*

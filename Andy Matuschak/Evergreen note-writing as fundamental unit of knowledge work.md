@@ -10,7 +10,7 @@ If you had to set one metric to use as a leading indicator for yourself as a kno
 
 [Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md) 
 
-[Evergreen note-writing helps reading efforts accumulate](Evergreen%20note-writing%20helps%20reading%20efforts%20accum.md) 
+[Evergreen note-writing helps reading efforts accumulate](Evergreen%20note-writing%20helps%20reading%20efforts%20accumulate.md) 
 
 Note-writing helps writing accumulate: these notes are the fuel for the Executable strategy for writing, particularly if you Create speculative outlines while you write.
 

@@ -24,7 +24,7 @@ created: 2020-01-01
 	- this way, they can't leverage the time and energy they put into trying to understand a new concept. More dangerous, they never connect the dots to see the connections between the different courses they have to take. 
 - 2022-10-13
 	- **Kepano** aka Stephan Ango has some really insightful note titles: "Evergreen notes turn ideas into objects that you can manipulate"
-	- [[Idea Emergence]]: What was said in LYT W9 1b.6 lesson comment by [Nicholas Seitz](https://community.linkingyourthinking.com/u/a81c1c05?).
+	- [[Idea Emergence (defn)]]: What was said in LYT W9 1b.6 lesson comment by [Nicholas Seitz](https://community.linkingyourthinking.com/u/a81c1c05?).
 		- Idea emergence is the process of moving from isolated notes to collections of notes with the accrued personal value of your own thought. Because organizing and linking notes is a tangible representation of your own processes of thinking, the creation of higher-level notes which string together multiple disparate ideas is both a record of your thinking and a means of navigating notes quickly based on topical connections already established in your own mind. This "offloads" the work of thinking from your gray matter to a tangible thing which is a record of the work you've already done and thus is future value in all knowledge-based work.
 	- Colin Robinson the actor's career...If you wanted to be an actor on The Office, what would you do? Probably not pretend you were a yo-yo enthusiast speaking to kids about the environment so you could get on local news stations, but that's what HE did.
 	- I'm very happy with STIR. It has legs regardless of the situation or tool, which is why I like it so much.

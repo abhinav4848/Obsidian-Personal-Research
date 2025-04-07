@@ -10,26 +10,26 @@ Last edited time: January 18, 2024 7:55 PM
 
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
-A core book on [§Note-writing systems](§Note-writing%20systems.md) practice. Sönke focuses largely on the benefits of a Zettelkasten for the academic writing process. One of the core ideas here is that creative writing can become relatively closed-form and actionable; it can be made executable, GTD-style, through a series of steps drawing on a densely-connected note system.
+A core book on [[§Note-writing systems.md|§Note-writing systems]] practice. Sönke focuses largely on the benefits of a Zettelkasten for the academic writing process. One of the core ideas here is that creative writing can become relatively closed-form and actionable; it can be made executable, GTD-style, through a series of steps drawing on a densely-connected note system.
 
 ---
 
 # Advice on associations
 
-Keywords should be sparse and tightly curated. They’re meant mostly as a “jumping-off” point: the connections between notes will be the primary navigational device. [Indexed references vs. tags](Indexed%20references%20vs%20tags.md) [Tags are an ineffective association structure](Tags%20are%20an%20ineffective%20association%20structure.md) 
+Keywords should be sparse and tightly curated. They’re meant mostly as a “jumping-off” point: the connections between notes will be the primary navigational device. [[Indexed references vs tags]] [[Tags are an ineffective association structure]] 
 
 - c) Making sure you will be able to find this note later by either linking to it from your index or by making a link to it on a note that you use as an entry point to a discussion or topic and is itself linked to the index.
 - In the Zettelkasten, keywords can easily be added to a note like tags and will then show up in the index. They should be chosen carefully and sparsely. Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index (Schmidt 2013, 171).
 - Because it should not be used as an archive, where we just take out what we put in, but as a system to think with, the references between the notes are much more important than the references from the index to a single note.
 - The way people choose their keywords shows clearly if they think like an archivist or a writer. Do they wonder where to store a note or how to retrieve it? The archivist asks: Which keyword is the most fitting? A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it? It is a crucial difference.
 
-We should beware automatic linkages. [Prefer explicit associations to inferred associations](Prefer%20explicit%20associations%20to%20inferred%20associations.md) 
+We should beware automatic linkages. [[Prefer explicit associations to inferred associations]] 
 
 - Even though the Zettelkasten makes suggestions here, too, for example based on joint literature references, making good cross-references is a matter of serious thinking and a crucial part of the development of thoughts.
 
 # Advice on structuring the note archive
 
-In the future, you’re likely to be thinking about “the impact of X on Y,” not a specific book which had a point about that topic. By using [Evergreen notes should be concept-oriented](Evergreen%20notes%20should%20be%20concept-oriented.md), you can build an organizational structure which reflects the future contexts in which you’d likely want to see the ideas you’ve distilled.
+In the future, you’re likely to be thinking about “the impact of X on Y,” not a specific book which had a point about that topic. By using [[Evergreen notes should be concept-oriented]], you can build an organizational structure which reflects the future contexts in which you’d likely want to see the ideas you’ve distilled.
 
 - Many students and academic writers think like the early ship owners when it comes to note-taking. They handle their ideas and findings in the way it makes immediate sense: If they read an interesting sentence, they underline it. If they have a comment to make, they write it into the margins. If they have an idea, they write it into their notebook, and if an article seems important enough, they make the effort and write an excerpt. Working like this will leave you with a lot of different notes in many different places. Writing, then, means to rely heavily on your brain to remember where and when these notes were written down. A text must then be conceptualised independently from these notes, which explains why so many resort to brainstorming to arrange the resources afterwards according to this preconceived idea.
 - In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?
@@ -41,7 +41,7 @@ The important thing about project notes seems to be that they be separated from 
 
 No need to treat every subject exhaustively: just write down what seems likely to help you think about the topics you’re pondering.
 
-- Because the slip-box is not intended to be an encyclopaedia, but a tool to think with, we don’t need to worry about completeness. We don’t need to write anything down just to bridge a gap in a note sequence. We only write if it helps us with our own thinking.
+- Because the slip-box is not intended to be an encyclopedia, but a tool to think with, we don’t need to worry about completeness. We don’t need to write anything down just to bridge a gap in a note sequence. We only write if it helps us with our own thinking.
 
 # Relative to memory systems
 
@@ -49,7 +49,7 @@ Flashcards need to be elaborated and embedded in a context.
 
 - The information on flashcards is neither elaborated on nor embedded in some form of context. Each flashcard stays isolated instead of being connected with the network of theoretical frames, our experiences or our latticework of mental models.
 
-[**Evergreen note maintenance approximates spaced repetition**](Evergreen%20note%20maintenance%20approximates%20spaced%20repetition.md), but in a more natural context.
+[[Evergreen note maintenance approximates spaced repetition]], but in a more natural context.
 
 - We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance (contextual interference) and with a deliberate effort (retrieval). The slip-box not only provides us with the opportunity to learn in this proven way, it forces us to do exactly what is recommended just by using it.
 
@@ -64,26 +64,26 @@ Writing while we read is a great way to monitor understanding: it’s hard to su
 - If we try to fool ourselves here and write down incomprehensible words, we will detect it in the next step when we try to turn our literature notes into permanent notes and try to connect them with others.
 - Writing notes and sorting them into the slip-box is nothing other than an attempt to understand the wider meaning of something. The slip-box forces us to ask numerous elaborating questions: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to?
 
-[Do your own thinking](Do%20your%20own%20thinking.md)
+[[Do your own thinking]]
 
 - described in his famous text about the Enlightenment: “Nonage [immaturity](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV) is the inability to use one’s own understanding without another’s guidance. This nonage is self-imposed if its cause lies not in lack of understanding but in indecision and lack of courage to use one’s own mind without another’s guidance. Dare to know! (Sapere aude.) ‘Have the courage to use your own understanding,’ is therefore the motto of the Enlightenment.” (Kant 1784)
 - But the first question I asked myself when it came to writing the first permanent note for the slip-box was: What does this all mean for my own research and the questions I think about in my slip-box? This is just another way of asking: Why did the aspects I wrote down catch my interest?
 
-Zettelkasten is more epistemologically honest, likely to find contrarian truths [Evergreen notes are a safe place to develop wild ideas](Evergreen%20notes%20are%20a%20safe%20place%20to%20develop%20wild%20ideas.md) [Writing forces sharper understanding](Writing%20forces%20sharper%20understanding.md)
+Zettelkasten is more epistemologically honest, likely to find contrarian truths [Evergreen notes are a safe place to develop wild ideas](Evergreen%20notes%20are%20a%20safe%20place%20to%20develop%20wild%20ideas.md) [[Writing forces sharper understanding]]
 
 - Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.
 
-It’s hard to see what’s *not* said in a text. By integrating our reading observations with prior notes, we’re naturally confronted with rocks the author may have left unturned. [Writing forces sharper understanding](Writing%20forces%20sharper%20understanding.md)
+It’s hard to see what’s *not* said in a text. By integrating our reading observations with prior notes, we’re naturally confronted with rocks the author may have left unturned. [[Writing forces sharper understanding]]
 
 - Experienced academic readers usually read a text with questions in mind and try to relate it to other possible approaches, while inexperienced readers tend to adopt the question of a text and the frames of the argument and take it as a given. What good readers can do is spot the limitations of a particular approach and see what is not mentioned in the text.
 
 # People inappropriately ignore note-taking
 
-Most people are bad at writing notes, and they don’t know it, because the feedback is indirect and delayed. [Note-writing practices are generally ineffective](Note-writing%20practices%20are%20generally%20ineffective.md)
+Most people are bad at writing notes, and they don’t know it, because the feedback is indirect and delayed. [[Note-writing practices are generally ineffective]]
 
 - There is another reason that note-taking flies mostly under the radar: We don’t experience any immediate negative feedback if we do it badly.
 
-Writing notes feels like a huge time imposition, but that’s in comparison to an imaginary baseline: reading *without* writing notes is often *all* lost time. [Evergreen note-writing helps reading efforts accumulate](Evergreen%20note-writing%20helps%20reading%20efforts%20accum.md) 
+Writing notes feels like a huge time imposition, but that’s in comparison to an imaginary baseline: reading *without* writing notes is often *all* lost time. [[Evergreen note-writing helps reading efforts accumulate]]
 
 - And while writing down an idea feels like a detour, extra time spent, not writing it down is the real waste of time, as it renders most of what we read as ineffectual.
 
@@ -109,20 +109,20 @@ Note-taking practices can turn writing into a predictable, actionable process (�
 
 - To get a good paper written, you only have to rewrite a good draft; to get a good draft written, you only have to turn a series of notes into a continuous text. And as a series of notes is just the rearrangement of notes you already have in your slip-box, all you really have to do is have a pen in your hand when you read.
 
-[Close open loops](Close%20open%20loops.md)
+[[Close open loops]]
 
 - Only if nothing else is lingering in our working memory and taking up valuable mental resources can we experience what Allen calls a “mind like water” - the state where we can focus on the work right in front of us without getting distracted by competing thoughts.
 
-[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](Evergreen%20notes%20permit%20smooth%20incremental%20progress%20in%20writing%20(“incremental%20writing”).md)
+[[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]]
 
 - As the outcome of each task is written down and possible connections become visible, it is easy to pick up the work any time where we left it without having to keep it in mind all the time.
 - All this enables us to later pick up a task exactly where we stopped without the need to “keep in mind” that there still was something to do. That is one of the main advantages of thinking in writing – everything is externalised anyway.
 
-Zettelkasten is a great release valve for editing. Material which isn’t essential for a particular piece can become a durable note, providing value later. Or, flipping this around, if the writing *began* with the note archive, then there’s no harm in deleting manuscript material, since it lives on elsewhere. [Evergreen notes lower the emotional stakes in editing manuscripts](https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B)
+Zettelkasten is a great release valve for editing. Material which isn’t essential for a particular piece can become a durable note, providing value later. Or, flipping this around, if the writing *began* with the note archive, then there’s no harm in deleting manuscript material, since it lives on elsewhere. [Evergreen notes lower the emotional stakes in editing manuscripts](https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B) 
 
 - One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”[42](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV) This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.
 
-Notes are a way to focus on “inputs, not outputs” that isn’t just about time. [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs) [Evergreen note-writing as fundamental unit of knowledge work](Evergreen%20note-writing%20as%20fundamental%20unit%20of%20knowledge%20work.md)
+Notes are a way to focus on “inputs, not outputs” that isn’t just about time. [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs) [[Evergreen note-writing as fundamental unit of knowledge work]]
 
 sense of ease
 

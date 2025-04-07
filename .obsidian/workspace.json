@@ -13,47 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Rituals/Perfect day exercise.md",
+                "file": "Own notes/Concepts/learned helplessness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Perfect day exercise"
-            }
-          },
-          {
-            "id": "86c3d95c9f9c92fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Concepts/Useful websites and links.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful websites and links"
-            }
-          },
-          {
-            "id": "3d79a34993c988c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andy Matuschak/Knowledge work should accrete.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge work should accrete"
+              "title": "learned helplessness"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Leaps of insight emerge from prior thought",
+                "query": "nothingness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,9 +74,18 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6a3f0d1f55bfb81b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Knowledge work should accrete.md",
+                "file": "Own notes/Concepts/learned helplessness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knowledge work should accrete"
+              "title": "Backlinks for learned helplessness"
             }
           },
           {
@@ -192,40 +170,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3d79a34993c988c2",
+  "active": "89b29ae690c7f770",
   "lastOpenFiles": [
-    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
-    "Andy Matuschak/Knowledge work should accrete.md",
-    "Ideaverse/Atlas/Notes/Ideas/Idea Emergence (defn).md",
-    "Andy Matuschak/Evergreen note-writing helps insight accumulate.md",
-    "Andy Matuschak/Leaps of insight emerge from prior thought.md",
-    "Andy Matuschak/Evergreen notes should be atomic.md",
-    "Own notes/Concepts/emergence.md",
-    "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
+    "Own notes/Rituals/Perfect day exercise.md",
+    "Video. (1) How to use QuickAdd for Obsidian - with examples.md",
+    "Skinner box.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Facts/Nucleus Accumbens.md",
-    "Own notes/Facts/Types of Christianity.md",
-    "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
-    "Ideaverse/Atlas/Maps/Systems MOC (kit).md",
-    "Own notes/Concepts/How to do a good lecture.md",
-    "Ideaverse/Atlas/Notes/Ideas/Convergence (defn).md",
-    "Ideaverse/Atlas/Notes/Ideas/LYT Glossary.md",
-    "Ideaverse/Atlas/Notes/Ideas/Bottom-up thinking.md",
+    "Own notes/Concepts/emergence.md",
+    "Idea Emergence Levels.md",
+    "Ideaverse/Atlas/Notes/Ideas/Gall's Law.md",
+    "Andy Matuschak/Leaps of insight emerge from prior thought.md",
+    "Idea Emergence.md",
+    "Ideaverse/Calendar/Logs/Idea Log (Example).md",
+    "Ideaverse/Calendar/Logs/Logs (Example).md",
     "Ideaverse/Atlas/Notes/Ideas/Emergence (defn).md",
-    "Ideaverse/Atlas/Notes/Ideas/Divergence (defn).md",
+    "Andy Matuschak/Knowledge work should accrete.md",
+    "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+    "Andy Matuschak/§Note-writing systems.md",
+    "Andy Matuschak/Tags are an ineffective association structure.md",
+    "Andy Matuschak/Do your own thinking.md",
+    "Andy Matuschak/Writing forces sharper understanding.md",
+    "Andy Matuschak/Note-writing practices are generally ineffective.md",
+    "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
+    "Andy Matuschak/Close open loops.md",
+    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
+    "Ideaverse/Atlas/Notes/Ideas/Idea Emergence (defn).md",
+    "Andy Matuschak/Evergreen note-writing helps insight accumulate.md",
+    "Andy Matuschak/Evergreen notes should be atomic.md",
+    "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",
-    "Skinner.md",
-    "Own notes/Rituals/Perfect day exercise.md",
-    "Own notes/Concepts/learned helplessness.md",
-    "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
-    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
-    "Own notes/History & Myths/Hellenistic World.md",
-    "Own notes/Concepts/contextual collapse.md",
-    "LizardsFromOuterSpace/068- Knowledge work.md",
     "Own notes/Facts/_attachments/Pasted image 20250312214344.png",
     "Own notes/Facts/_attachments",
     "LizardsFromOuterSpace/_attachments/Specialized vs General Knowledge.png",
