@@ -14,7 +14,7 @@ With the emergence of writing, we can now **store and share** information on m
     - [Vindolanda Tablets](https://www.wikiwand.com/en/Vindolanda_tablets)
 - Scrolls
 - Reference Books
-- Note Boxes ([e.g. zettelkasten](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/2))
+- Note Boxes (e.g. [[002- Zettelkasten]])
 
 The introduction of the computer has led to an explosion of information sharing and management. Now there are many different ways one can store their notes (important information) digitally.
 

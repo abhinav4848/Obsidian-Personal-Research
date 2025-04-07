@@ -26,8 +26,6 @@ See: [[009- Note Size]].
 [[220- Zettelkasten Output Examples]]: Examples of Output from Zettelkasten
 [[218- Zettelkasten as a Knowledge Explorer]]: Zettelkasten Exploration Analogy
 [[229- Zettelkasten isn’t a Catch All]]: Zettelkasten Word of Caution
-
 # References
-
-1. [Obsidian Zettelkasten](https://forum.obsidian.md/t/obsidian-zettelkasten/1999)
+1. [Obsidian Zettelkasten](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/2)
 2. Andy Matuschak’s sliding notes webpage: [https://notes.andymatuschak.org/About_these_notes](https://notes.andymatuschak.org/About_these_notes)

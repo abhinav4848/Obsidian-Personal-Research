@@ -6,7 +6,7 @@ Author: Andy Matuschak
 Completion Status: Finished
 Last edited time: January 18, 2024 7:55 PM
 
-Many activities in [Knowledge work](https://www.notion.so/Knowledge-work-1fbb3ac633e7402c9eb5de1fc0400e67?pvs=21) seem to be ephemeral efforts, their outputs mostly discarded after they’re completed.
+Many activities in [[068- Knowledge work]] seem to be ephemeral efforts, their outputs mostly discarded after they’re completed.
 
 You might wake up to a really tricky email and realize that it connects to something you’ve been thinking about for a while. You might spend an hour writing a careful reply, capturing your latest thinking. And now… it lives in your “sent” folder, and briefly in the impression on your and your colleague’s mind. The effort accumulates only insofar as that work subtly influences your and your colleague’s thinking over time.
 

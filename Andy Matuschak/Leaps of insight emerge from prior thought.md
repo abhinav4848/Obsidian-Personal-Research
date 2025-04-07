@@ -13,7 +13,7 @@ See: [[Idea Emergence (defn)]]
 
 When looking at someone else’s stroke of genius, you see only the end product. You don’t see how much kindling was burnt before that sudden realization was possible. In part, that’s because even our own epiphanies don’t feel like they emerge as a natural consequence of prior efforts—but they do!
 
-Leaps of insight depend on having accumulated lots of prior thought on those topics. Sometimes that accumulation happens entirely within our subconscious (our “subconscious back burners,” as May-Li would say), but it’s helpful to design our external cognitive systems such that our day-to-day noodling can accrete (see Knowledge work should accrete).
+Leaps of insight depend on having accumulated lots of prior thought on those topics. Sometimes that accumulation happens entirely within our subconscious (our “subconscious back burners,” as May-Li would say), but it’s helpful to design our external cognitive systems such that our day-to-day noodling can accrete (see [[Knowledge work should accrete]]).
 
 One practical implication of this notion: [[Evergreen note-writing as fundamental unit of knowledge work]].
 
