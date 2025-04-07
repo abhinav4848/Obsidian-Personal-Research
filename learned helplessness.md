@@ -1,0 +1,1 @@
+in modern age, people are waiting to be sold a solution to their problems rather than be introspective and explore what their problems actually are and how they might be able to come up with their own solutions which don't cost any money. 

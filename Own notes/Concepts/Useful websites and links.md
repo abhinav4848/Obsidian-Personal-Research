@@ -121,10 +121,10 @@ tags: link
     [https://www.calnewport.com/blog/](https://www.calnewport.com/blog/)
     
 34. **Zach Pogrob – Anti-Advice** – Writing on obsession, purpose, and building legendary work.  
-    [https://www.instagram.com/zachpogrob/](https://www.instagram.com/zachpogrob/)
+    <https://www.instagram.com/zachpogrob/>
     
 35. **Nat Eliason** – Learning, career strategy, and exploration without burnout.  
-    [https://www.nateliason.com/blog](https://www.nateliason.com/blog)
+    [Articles | Nat Eliason | Nat Eliason](https://www.nateliason.com/blog)
     
 36. **Tiago Forte – Building a Second Brain** – Note-taking, digital organization, and creative systems.  
     [https://fortelabs.com/blog/](https://fortelabs.com/blog/)
