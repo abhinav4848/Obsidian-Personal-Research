@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/learned helplessness.md",
+                "file": "Own notes/Facts/Types of Christianity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "learned helplessness"
+              "title": "Types of Christianity"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Concepts/learned helplessness.md",
+                "file": "Own notes/Facts/Types of Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for learned helplessness"
+              "title": "Backlinks for Types of Christianity"
             }
           },
           {
@@ -171,15 +171,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b29ae690c7f770",
+  "active": "39f5cb4dda433665",
   "lastOpenFiles": [
+    "desktop.ini",
+    "Own notes/Concepts/Skinner box.md",
+    "ReadMe.md",
+    "Own notes/Concepts/learned helplessness.md",
     "Own notes/Rituals/Perfect day exercise.md",
     "Video. (1) How to use QuickAdd for Obsidian - with examples.md",
-    "Skinner box.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Facts/Nucleus Accumbens.md",
     "Own notes/Concepts/emergence.md",
@@ -200,9 +202,6 @@
     "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
     "Andy Matuschak/Close open loops.md",
     "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
-    "Ideaverse/Atlas/Notes/Ideas/Idea Emergence (defn).md",
-    "Andy Matuschak/Evergreen note-writing helps insight accumulate.md",
-    "Andy Matuschak/Evergreen notes should be atomic.md",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",
@@ -217,7 +216,6 @@
     "LizardsFromOuterSpace/_attachments",
     "Ideaverse/_attachments",
     "Own notes/_attachments/Spaced Repetition- Revision excel sheet used by Ali Abdaal.png",
-    "desktop.ini",
     "Own notes/History & Myths",
     "Own notes/Philosophy/Essays",
     "Own notes/Facts",
