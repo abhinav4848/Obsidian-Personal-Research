@@ -1,4 +1,4 @@
-# Premack Principle
+# Premack Principle #todo
 The [Premack principle](https://www.simplypsychology.org/premack-principle.html) is a form of positive reinforcement in operant conditioning.
 
 It suggests using a preferred activity (high-probability behavior) as a reward for completing a less preferred one (low-probability behavior).

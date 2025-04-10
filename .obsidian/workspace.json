@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Premack Principle.md",
+                "file": "Own notes/Concepts/Skinner box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Premack Principle"
+              "title": "Skinner box"
             }
           },
           {
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcers of activity.md",
+                "file": "Own notes/Concepts/Reinforcers of activity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Premack Principle.md",
+                "file": "Own notes/Concepts/Skinner box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Premack Principle"
+              "title": "Backlinks for Skinner box"
             }
           },
           {
@@ -189,11 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39f5cb4dda433665",
+  "active": "89b29ae690c7f770",
   "lastOpenFiles": [
-    "Reinforcers of activity.md",
-    "Premack Principle.md",
+    "Own notes/Concepts/Schedules of Reinforcement.md",
     "Own notes/Concepts/Skinner box.md",
+    "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
+    "Own notes/Concepts/Reinforcers of activity.md",
+    "Premack Principle.md",
     "Own notes/Facts/Nucleus Accumbens.md",
     "Own notes/Facts/Types of Christianity.md",
     "desktop.ini",
@@ -216,8 +218,6 @@
     "Andy Matuschak/Tags are an ineffective association structure.md",
     "Andy Matuschak/Do your own thinking.md",
     "Andy Matuschak/Writing forces sharper understanding.md",
-    "Andy Matuschak/Note-writing practices are generally ineffective.md",
-    "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",
