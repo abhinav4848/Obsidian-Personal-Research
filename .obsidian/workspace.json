@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/Premack Principle.md",
+                "file": "Own notes/Concepts/Pigeons in a box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Premack Principle"
+              "title": "Pigeons in a box"
             }
           }
         ]
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +186,7 @@
   },
   "active": "9e8c22831fd1bf91",
   "lastOpenFiles": [
+    "Own notes/Concepts/Premack Principle.md",
     "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
@@ -199,7 +200,6 @@
     "Own notes/Concepts/How to think.md",
     "Own notes/Concepts/Idea Emergence.md",
     "ReadMe.md",
-    "Own notes/Concepts/Premack Principle.md",
     "Own notes/Facts/Nucleus Accumbens.md",
     "Own notes/Facts/Types of Christianity.md",
     "desktop.ini",
