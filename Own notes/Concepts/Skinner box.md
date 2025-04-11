@@ -4,7 +4,7 @@ aka **operant conditioning chamber** which trained the behavior of [[Pigeons in 
 
 It’s a controlled environment used to study behavior reinforcement (learning through consequences) — specifically, how rewards and punishments shape behavior. 
 
-> [!NOTE] Skinner box + Dark Pattern
+> [!NOTE] Skinner box + [[Dark Pattern]]
 > Any design pattern that hacks the reward pathwyas of your brain to get you to do something you wouldn't, without that design. 
 
 ***Your phone is a skinner box.***
