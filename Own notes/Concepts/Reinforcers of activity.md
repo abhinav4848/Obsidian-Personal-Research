@@ -1,6 +1,6 @@
 # Reinforcers of activity
 ## Primary conditioner rewards
-The primary reinforcing stimuli for an action are biological needs like food, water, sex, etc. These have a diminishing effect once an organism is sated or reached the limit of their needs. 
+The [[primary motivational factors|primary reinforcing stimuli]] for an action are biological needs like food, water, sex, etc. These have a diminishing effect once an organism is sated or reached the limit of their needs. 
 
 They are called primary because they are not learned. 
 
