@@ -58,13 +58,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/Maslow's hierarchy of needs.md",
+                "file": "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Maslow's hierarchy of needs"
+              "title": "Anarchy, State, and Utopia (1974)"
+            }
+          },
+          {
+            "id": "257af0450fa511dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dunning Kruger Effect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Dunning Kruger Effect"
+            }
+          },
+          {
+            "id": "2c2c9aeaa929c169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "response to change.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "response to change"
+            }
+          },
+          {
+            "id": "4779599440168c8f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png"
+              },
+              "icon": "lucide-image",
+              "title": "Maslow's Hierarchy of Needs"
             }
           },
           {
@@ -81,39 +123,9 @@
               "icon": "lucide-file",
               "title": "Premack Principle"
             }
-          },
-          {
-            "id": "e73e3dff708b0b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Concepts/Reinforcers of activity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Reinforcers of activity"
-            }
-          },
-          {
-            "id": "67ffd8efab24cfba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Immanuel Kant"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Rules, Laws/Premack Principle.md",
+                "file": "response to change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Premack Principle"
+              "title": "Backlinks for response to change"
             }
           },
           {
@@ -275,13 +287,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b29ae690c7f770",
+  "active": "2c2c9aeaa929c169",
   "lastOpenFiles": [
-    "Own notes/Concepts/Pigeons in a box.md",
+    "_attachments/Response to change 2.png",
+    "response to change.md",
+    "_attachments/Response to change.png",
+    "Dunning Kruger Effect.md",
+    "_attachments/Dunning Kruger Effect in Business.png",
+    "_attachments/Dunning Kruger Effect- Fancy names of each point.png",
+    "_attachments/Dunning Kruger Effect- Original guide.png",
+    "_attachments",
+    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
+    "Books/The Psychology of Money.md",
     "Own notes/Concepts/Maslow's hierarchy of needs.md",
     "Own notes/Concepts/secondary motivational factors.md",
+    "Own notes/Concepts/Reinforcers of activity.md",
     "Own notes/Concepts/primary motivational factors.md",
+    "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png",
+    "Own notes/Rules, Laws/Premack Principle.md",
     "Own notes/Concepts/_attachments/Pasted image 20250421224213.png",
     "Own notes/Concepts/_attachments",
     "Own notes/Concepts/Reactance.md",
@@ -290,38 +314,26 @@
     "Own notes/Concepts/Sociology.md",
     "Own notes/Public People/Rockerfeller.md",
     "ReadMe.md",
-    "Own notes/Concepts/Reinforcers of activity.md",
     "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
     "Own notes/Concepts/agency.md",
     "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
     "primary reinforcing stimuli.md",
-    "Books/The Psychology of Money.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
     "Own notes/Concepts/Skinner box.md",
-    "Own notes/Rules, Laws/Premack Principle.md",
     "Own notes/Concepts/School syllabus is flawed.md",
     "Own notes/Concepts/learned helplessness.md",
     "Own notes/Philosophy/philosophy reference/Robert Nozick.md",
-    "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
-    "Own notes/Concepts/Spaced Repetition.md",
-    "Own notes/Concepts/How to think.md",
     "desktop.ini",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",
     "Own notes/Facts/_attachments/Pasted image 20250312214344.png",
     "Own notes/Facts/_attachments",
-    "LizardsFromOuterSpace/_attachments/Specialized vs General Knowledge.png",
-    "Own notes/_attachments/Spaced Repetition- Before and after.png",
-    "LizardsFromOuterSpace/_attachments/PARA Structure.png",
-    "LizardsFromOuterSpace/_attachments/Lizard men from space-111.png",
-    "LizardsFromOuterSpace/_attachments/Generalization.png",
     "LizardsFromOuterSpace/_attachments",
     "Ideaverse/_attachments",
     "Own notes/History & Myths",
-    "Own notes/Philosophy/Essays",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
