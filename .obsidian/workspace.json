@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Rules, Laws/response to change.md",
+                "file": "Own notes/Rules, Laws/five stages of grief.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "response to change"
+              "title": "five stages of grief"
             }
           },
           {
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Rules, Laws/response to change.md",
+                "file": "Own notes/Rules, Laws/five stages of grief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for response to change"
+              "title": "Backlinks for five stages of grief"
             }
           },
           {
@@ -271,8 +271,13 @@
   },
   "active": "73b5888ee192351d",
   "lastOpenFiles": [
-    "five stages of grief.md",
     "Own notes/Rules, Laws/response to change.md",
+    "Own notes/Rules, Laws/five stages of grief.md",
+    "Own notes/Concepts/Pigeons in a box.md",
+    "Own notes/Concepts/Schedule of Reinforcement.md",
+    "Own notes/Concepts/Skinner box.md",
+    "Own notes/Concepts/Reinforcers of activity.md",
+    "Own notes/Rules, Laws/Premack Principle.md",
     "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
@@ -286,11 +291,8 @@
     "_attachments",
     "Own notes/Concepts/Maslow's hierarchy of needs.md",
     "Own notes/Concepts/secondary motivational factors.md",
-    "Own notes/Concepts/Reinforcers of activity.md",
     "Own notes/Concepts/primary motivational factors.md",
-    "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png",
-    "Own notes/Rules, Laws/Premack Principle.md",
     "Own notes/Concepts/_attachments/Pasted image 20250421224213.png",
     "Own notes/Concepts/_attachments",
     "Own notes/Concepts/Reactance.md",
@@ -300,13 +302,11 @@
     "Own notes/Public People/Rockerfeller.md",
     "ReadMe.md",
     "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
-    "Own notes/Concepts/Schedule of Reinforcement.md",
     "Own notes/Concepts/agency.md",
     "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
     "primary reinforcing stimuli.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
-    "Own notes/Concepts/Skinner box.md",
     "Own notes/Concepts/School syllabus is flawed.md",
     "Own notes/Concepts/learned helplessness.md",
     "desktop.ini",
