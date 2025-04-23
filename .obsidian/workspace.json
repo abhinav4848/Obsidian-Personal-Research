@@ -58,43 +58,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Anarchy, State, and Utopia (1974)"
-            }
-          },
-          {
-            "id": "257af0450fa511dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dunning Kruger Effect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dunning Kruger Effect"
-            }
-          },
-          {
-            "id": "2c2c9aeaa929c169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "response to change.md",
+                "file": "Own notes/Rules, Laws/response to change.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "response to change"
+            }
+          },
+          {
+            "id": "55a644f4f2b99d07",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Own notes/Rules, Laws/_attachments/Response to change.png"
+              },
+              "icon": "lucide-image",
+              "title": "Response to change"
             }
           },
           {
@@ -125,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "response to change.md",
+                "file": "Own notes/Rules, Laws/response to change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,18 +269,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c2c9aeaa929c169",
+  "active": "73b5888ee192351d",
   "lastOpenFiles": [
-    "_attachments/Response to change 2.png",
-    "response to change.md",
+    "five stages of grief.md",
+    "Own notes/Rules, Laws/response to change.md",
+    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
+    "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
-    "Dunning Kruger Effect.md",
+    "Own notes/Rules, Laws/_attachments",
+    "Own notes/Rules, Laws/Dunning Kruger Effect.md",
+    "Books/The Psychology of Money.md",
+    "_attachments/Response to change 2.png",
     "_attachments/Dunning Kruger Effect in Business.png",
     "_attachments/Dunning Kruger Effect- Fancy names of each point.png",
     "_attachments/Dunning Kruger Effect- Original guide.png",
     "_attachments",
-    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
-    "Books/The Psychology of Money.md",
     "Own notes/Concepts/Maslow's hierarchy of needs.md",
     "Own notes/Concepts/secondary motivational factors.md",
     "Own notes/Concepts/Reinforcers of activity.md",
@@ -324,16 +309,13 @@
     "Own notes/Concepts/Skinner box.md",
     "Own notes/Concepts/School syllabus is flawed.md",
     "Own notes/Concepts/learned helplessness.md",
-    "Own notes/Philosophy/philosophy reference/Robert Nozick.md",
     "desktop.ini",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",
-    "Own notes/Facts/_attachments/Pasted image 20250312214344.png",
     "Own notes/Facts/_attachments",
     "LizardsFromOuterSpace/_attachments",
     "Ideaverse/_attachments",
-    "Own notes/History & Myths",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
