@@ -1,5 +1,6 @@
 ---
-URL: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+URLs:
+  - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 ---
 ![[Dunning Kruger Effect- Original guide.png]]
 ### Fancy names of each stage

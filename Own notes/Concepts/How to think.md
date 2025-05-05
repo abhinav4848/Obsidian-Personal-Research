@@ -1,6 +1,6 @@
 ---
-alias: 
-tag: learning
+tags:
+  - learning
 ---
 [[Useful websites and links]]
 

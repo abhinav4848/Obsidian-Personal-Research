@@ -1,5 +1,5 @@
 ---
-URL: https://philosophynow.org/issues/162/Philosophers_Exploring_The_Good_Life
+URLs: https://philosophynow.org/issues/162/Philosophers_Exploring_The_Good_Life
 ---
  Is it a question about a moral life, a life of pleasure, a question of meaning, or is it about self-development and self-actualisation?
 

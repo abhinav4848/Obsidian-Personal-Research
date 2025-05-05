@@ -3,6 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "andy_pending": "checkbox"
+    "URLs": "text"
   }
 }

@@ -1,6 +1,6 @@
 ---
-alias: 
-tags: link
+tags:
+  - link
 ---
 # 🧠 Personal Growth / Mental Models / Productivity
 

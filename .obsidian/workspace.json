@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amygdala.md",
+                "file": "Own notes/Concepts/Pigeons in a box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "amygdala"
+              "title": "Pigeons in a box"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conditionin",
+                "query": "[\"URLs\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,9 +225,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fdfc3ac200a530ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -243,49 +258,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebc31910740bd44",
+  "active": "371cc9518e6855d8",
   "lastOpenFiles": [
-    "Own notes/Concepts/Skinner box.md",
-    "Own notes/Rules, Laws/Premack Principle.md",
+    "Own notes/Concepts/Pigeons in a box.md",
+    "Own notes/Concepts/Maslow's hierarchy of needs.md",
+    "Own notes/Concepts/How to think.md",
+    "Own notes/Philosophy/philosophy reference/1984 (1949).md",
+    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
+    "Own notes/Philosophy/Essays/What is a good life.md",
+    "Own notes/Concepts/agency.md",
+    "Own notes/Rules, Laws/Dunning Kruger Effect.md",
+    "Books/The Psychology of Money.md",
+    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
+    "Own notes/Philosophy/philosophy reference/Seneca.md",
+    "Own notes/Philosophy/philosophy reference/Epictetus.md",
+    "Own notes/Concepts/School syllabus is flawed.md",
+    "Own notes/Concepts/Useful websites and links.md",
     "amygdala.md",
     "Reward system of the brain.md",
+    "Dopamine.md",
+    "Own notes/Concepts/Skinner box.md",
+    "Own notes/Rules, Laws/Premack Principle.md",
     "addiction.md",
     "serotonin.md",
     "Internet and Artificial intelligence.md",
     "Own notes/Facts/Nucleus Accumbens.md",
     "Reward system of the brain (flowchart).canvas",
-    "Dopamine.md",
-    "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Public People/Rockerfeller.md",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
     "Own notes/Concepts/Sociology.md",
-    "Own notes/Rules, Laws/five stages of grief.md",
     "desktop.ini",
-    "Own notes/Rules, Laws/response to change.md",
-    "Own notes/Concepts/Pigeons in a box.md",
-    "Own notes/Concepts/Schedule of Reinforcement.md",
-    "Own notes/Concepts/Reinforcers of activity.md",
-    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
     "_attachments/Response to change.png",
     "Own notes/Rules, Laws/_attachments",
-    "Own notes/Rules, Laws/Dunning Kruger Effect.md",
-    "Books/The Psychology of Money.md",
     "_attachments/Response to change 2.png",
     "_attachments/Dunning Kruger Effect in Business.png",
     "_attachments/Dunning Kruger Effect- Fancy names of each point.png",
     "_attachments/Dunning Kruger Effect- Original guide.png",
     "_attachments",
-    "Own notes/Concepts/Maslow's hierarchy of needs.md",
-    "Own notes/Concepts/secondary motivational factors.md",
-    "Own notes/Concepts/primary motivational factors.md",
     "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png",
     "Own notes/Concepts/_attachments/Pasted image 20250421224213.png",
     "Own notes/Concepts/_attachments",
-    "Own notes/Concepts/Reactance.md",
     "Untitled",
     "Books",
-    "ReadMe.md",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",

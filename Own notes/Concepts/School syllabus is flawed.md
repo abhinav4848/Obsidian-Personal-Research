@@ -1,6 +1,6 @@
 ---
-alias: 
-tags: abstract
+tags:
+  - abstract
 ---
 > Knowing how to live with insecurity is the only security. 
 

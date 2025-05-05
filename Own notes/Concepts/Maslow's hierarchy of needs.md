@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
+URLs: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
 ---
 It's a concept that shows what needs motivate human behavior. They start from [[primary motivational factors]] to [[secondary motivational factors]].
 
