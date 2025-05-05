@@ -4,110 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "909edffa5ed59bee",
+        "id": "16a29317eaf0cbb3",
         "type": "tabs",
         "children": [
           {
-            "id": "9e8c22831fd1bf91",
+            "id": "219ba0ffbdd5e92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/Useful websites and links.md",
+                "file": "Own notes/Facts/Nucleus Accumbens.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Useful websites and links"
+              "title": "Nucleus Accumbens"
             }
           },
           {
-            "id": "425cc541e4f99909",
+            "id": "1ebc31910740bd44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Public People/Rockerfeller.md",
+                "file": "reward system of the brain.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Rockerfeller"
-            }
-          },
-          {
-            "id": "7b1f131d0136788c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Concepts/Sociology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociology"
-            }
-          },
-          {
-            "id": "73b5888ee192351d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Rules, Laws/five stages of grief.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "five stages of grief"
-            }
-          },
-          {
-            "id": "55a644f4f2b99d07",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Own notes/Rules, Laws/_attachments/Response to change.png"
-              },
-              "icon": "lucide-image",
-              "title": "Response to change"
-            }
-          },
-          {
-            "id": "4779599440168c8f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png"
-              },
-              "icon": "lucide-image",
-              "title": "Maslow's Hierarchy of Needs"
-            }
-          },
-          {
-            "id": "9042e9fbe638eba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Rules, Laws/Premack Principle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Premack Principle"
+              "title": "reward system of the brain"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "dopamine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,18 +219,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73b5888ee192351d",
+  "active": "1ebc31910740bd44",
   "lastOpenFiles": [
+    "Dopamine.md",
+    "reward system of the brain.md",
+    "Own notes/Facts/Nucleus Accumbens.md",
+    "Own notes/Concepts/Useful websites and links.md",
+    "Own notes/Public People/Rockerfeller.md",
+    "Own notes/Rules, Laws/_attachments/Response to change.png",
+    "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
+    "Own notes/Concepts/Sociology.md",
+    "Own notes/Rules, Laws/five stages of grief.md",
     "desktop.ini",
     "Own notes/Rules, Laws/response to change.md",
-    "Own notes/Rules, Laws/five stages of grief.md",
     "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
     "Own notes/Concepts/Skinner box.md",
     "Own notes/Concepts/Reinforcers of activity.md",
     "Own notes/Rules, Laws/Premack Principle.md",
     "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
-    "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
     "Own notes/Rules, Laws/_attachments",
     "Own notes/Rules, Laws/Dunning Kruger Effect.md",
@@ -300,17 +256,11 @@
     "Own notes/Concepts/Reactance.md",
     "Untitled",
     "Books",
-    "Own notes/Concepts/Sociology.md",
-    "Own notes/Public People/Rockerfeller.md",
     "ReadMe.md",
-    "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
     "Own notes/Concepts/agency.md",
     "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
     "primary reinforcing stimuli.md",
-    "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
-    "Own notes/Concepts/School syllabus is flawed.md",
-    "Own notes/Concepts/learned helplessness.md",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",

@@ -1,0 +1,3 @@
+The reward systems of the brain are a group of structures that are activated whenever we experience something rewarding, such as eating a nice-tasting food, having sex, or using an addictive drug. Structures that are considered to be a part of this reward system are found along the primary [dopamine](https://www.simplypsychology.org/the-role-of-dopamine-as-a-neurotransmitter-in-the-human-brain.html) pathways of the brain. 
+
+> When exposed to a stimulus that is rewarding, the brain responds by releasing an increased amount of dopamine, the main neurotransmitter associated with rewards and pleasure.
