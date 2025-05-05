@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reward system of the brain.md",
+                "file": "Dopamine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "reward system of the brain"
+              "title": "Dopamine"
             }
           }
         ],
@@ -221,9 +221,10 @@
   },
   "active": "1ebc31910740bd44",
   "lastOpenFiles": [
-    "Dopamine.md",
-    "reward system of the brain.md",
     "Own notes/Facts/Nucleus Accumbens.md",
+    "Dopamine.md",
+    "Reward system of the brain (flowchart).canvas",
+    "Reward system of the brain.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Public People/Rockerfeller.md",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
@@ -260,7 +261,6 @@
     "Own notes/Concepts/agency.md",
     "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
     "primary reinforcing stimuli.md",
-    "Own notes/Concepts/Variable ratio reinforcement schedule.md",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",

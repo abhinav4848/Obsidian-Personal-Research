@@ -4,7 +4,7 @@ It’s kind of like the **“fuel pump” of motivation**—it doesn’t decide 
 
 ![[Nucleus accumbens.png]]
 ## Significance
-As a whole, the nucleus accumbens has a significant role in the cognitive processing of motivation, aversion, reward (i.e., incentive salience, pleasure, and positive reinforcement), and reinforcement learning (e.g., Pavlovian-instrumental transfer); hence, it has a significant role in [[addiction]].
+As a whole, the Nucleus Accumbens has a significant role in the cognitive processing of motivation, aversion, reward (i.e., incentive salience, pleasure, and positive reinforcement), and reinforcement learning (e.g., Pavlovian-instrumental transfer); hence, it has a significant role in [[addiction]].
 
 ## Example of its use in daily life
 When you:

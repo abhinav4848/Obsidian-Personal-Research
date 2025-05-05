@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"1b10f62a41633a39","type":"text","text":"Perception of Rewarding Stimulus","x":-240,"y":-360,"width":250,"height":60,"color":"4"},
+		{"id":"b23b4d84ade5ce35","type":"text","text":"Amygdala adds emotional weight to the stimulus","x":-86,"y":-230,"width":250,"height":60,"color":"6"},
+		{"id":"c3f91aae2fdb9b1a","type":"text","text":"Hippocampus adds context based on past experience. ","x":-450,"y":-250,"width":250,"height":100,"color":"6"},
+		{"id":"7632d37fb146f63c","type":"text","text":"Prefrontal cortex analyses this event and based on the pleasure received, reinforces memory and behavior accordingly","x":-258,"y":209,"width":297,"height":131,"color":"4"},
+		{"id":"9d806d66c219a3d2","type":"text","text":"Activation of Ventral tegmental area","x":-240,"y":-100,"width":250,"height":60,"color":"4"},
+		{"id":"f132180243ff78ed","type":"text","text":"Dopamine binding to neurons of NAc gives feeling of reward.","x":-555,"y":-40,"width":230,"height":94,"color":"6"},
+		{"id":"83548d7ad64aa2e3","type":"text","text":"Dopamine released & transmitted to [[Nucleus Accumbens]]","x":-200,"y":54,"width":239,"height":87,"color":"4"},
+		{"id":"1c33b4e5e3c129ee","type":"text","text":"Over time, repeated exposures lead to habit.","x":-258,"y":435,"width":250,"height":60,"color":"4"},
+		{"id":"27ffcfa6afe39fca","type":"text","text":"if an anticipated reward doesn’t result in the expected pleasure, the feedback loop may reduce the motivation to pursue that specific reward in the future.","x":-575,"y":305,"width":250,"height":215,"color":"6"},
+		{"id":"3eed8eb70900ba2a","type":"file","file":"Reward system of the brain.md","x":-315,"y":-600,"width":400,"height":160}
+	],
+	"edges":[
+		{"id":"2e5bab2c599e7313","fromNode":"1b10f62a41633a39","fromSide":"bottom","toNode":"9d806d66c219a3d2","toSide":"top"},
+		{"id":"507d0a2e925fc1d1","fromNode":"9d806d66c219a3d2","fromSide":"bottom","toNode":"83548d7ad64aa2e3","toSide":"top"},
+		{"id":"57caf1bdd0cbf7f1","fromNode":"c3f91aae2fdb9b1a","fromSide":"bottom","toNode":"9d806d66c219a3d2","toSide":"left"},
+		{"id":"1f317f6a26824d38","fromNode":"b23b4d84ade5ce35","fromSide":"bottom","toNode":"9d806d66c219a3d2","toSide":"right"},
+		{"id":"2a837f72da03f46a","fromNode":"f132180243ff78ed","fromSide":"bottom","toNode":"83548d7ad64aa2e3","toSide":"left"},
+		{"id":"4c847e03f30b58d3","fromNode":"83548d7ad64aa2e3","fromSide":"bottom","toNode":"7632d37fb146f63c","toSide":"top"},
+		{"id":"b4630467b4ff65d8","fromNode":"7632d37fb146f63c","fromSide":"bottom","toNode":"1c33b4e5e3c129ee","toSide":"top"},
+		{"id":"f76b88db4c588aa6","fromNode":"27ffcfa6afe39fca","fromSide":"right","toNode":"1c33b4e5e3c129ee","toSide":"left"}
+	]
+}
