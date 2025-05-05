@@ -1,6 +1,9 @@
 # Nucleus Accumbens
+
 It’s often referred to as a key player in the **brain’s reward system**. 
-It’s kind of like the **“fuel pump” of motivation**—it doesn’t decide _what_ you want, but it gives you the energy to go after it.
+*See: [[Reward system of the brain]]*
+
+It’s kind of like the **“fuel pump” of motivation**— it doesn’t decide _what_ you want, but it gives you the energy to go after it.
 
 ![[Nucleus accumbens.png]]
 ## Significance
@@ -18,4 +21,3 @@ Nucleus Accumbens is a region in the basal forebrain rostral (near to the face) 
 The dopaminergic neurons of the mesolimbic pathway project onto the GABAergic medium spiny neurons of the nucleus accumbens and olfactory tubercle.
 ## Ref
 https://en.wikipedia.org/wiki/Nucleus_accumbens
-

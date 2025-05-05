@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dopamine.md",
+                "file": "amygdala.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dopamine"
+              "title": "amygdala"
+            }
+          },
+          {
+            "id": "4ab8ee16038e22df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet and Artificial intelligence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Internet and Artificial intelligence"
             }
           }
         ],
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dopamine",
+                "query": "conditionin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,10 +245,16 @@
   },
   "active": "1ebc31910740bd44",
   "lastOpenFiles": [
-    "Own notes/Facts/Nucleus Accumbens.md",
-    "Dopamine.md",
-    "Reward system of the brain (flowchart).canvas",
+    "Own notes/Concepts/Skinner box.md",
+    "Own notes/Rules, Laws/Premack Principle.md",
+    "amygdala.md",
     "Reward system of the brain.md",
+    "addiction.md",
+    "serotonin.md",
+    "Internet and Artificial intelligence.md",
+    "Own notes/Facts/Nucleus Accumbens.md",
+    "Reward system of the brain (flowchart).canvas",
+    "Dopamine.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Public People/Rockerfeller.md",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
@@ -235,9 +265,7 @@
     "Own notes/Rules, Laws/response to change.md",
     "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
-    "Own notes/Concepts/Skinner box.md",
     "Own notes/Concepts/Reinforcers of activity.md",
-    "Own notes/Rules, Laws/Premack Principle.md",
     "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
     "_attachments/Response to change.png",
     "Own notes/Rules, Laws/_attachments",
@@ -258,9 +286,6 @@
     "Untitled",
     "Books",
     "ReadMe.md",
-    "Own notes/Concepts/agency.md",
-    "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
-    "primary reinforcing stimuli.md",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",

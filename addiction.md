@@ -1,0 +1,5 @@
+Drugs force the brain to release a large amount of dopamine than would be released by healthy activities. They also prevent the brain from reabsorbing dopamine, making the pleasurable experience last unnaturally longer. 
+
+A Negative consequence is that although a lot of dopamine is stimulated around the brain and there are strong feelings of euphoria, this also causes [[serotonin]] levels to decrease. Serotonin is an essential neurotransmitter associated with feelings of happiness.
+
+Due to addictive substances like drugs affecting serotonin levels, this can get to a point where everyday activities which an individual would have found pleasurable before, do not bring them happiness anymore and could result in feeling very low in mood over the continued use of drugs. This can also be because these activities do not produce the same amount of dopamine that they are now accustomed to.
