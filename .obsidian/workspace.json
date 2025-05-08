@@ -143,8 +143,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ab8ee16038e22df",
+  "active": "89b29ae690c7f770",
   "lastOpenFiles": [
     "desktop.ini",
     "Own notes/Concepts/Pigeons in a box.md",
