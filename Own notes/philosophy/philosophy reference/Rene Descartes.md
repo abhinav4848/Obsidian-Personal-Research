@@ -1,0 +1,2 @@
+philosopher and mathematician. 
+outline a distinction between the mind and the body. he claimed that all human beings have a dualistic existence- with a separate machine-like body and a non-material, thinking mind, or soul. 

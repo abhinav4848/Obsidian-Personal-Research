@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduction to Psychology",
+      "path": "Introduction to Psychology.md"
+    },
+    {
+      "basename": "Rene Descartes",
+      "path": "Own notes/Philosophy/philosophy reference/Rene Descartes.md"
+    },
+    {
       "basename": "Internet and Artificial intelligence",
       "path": "Internet and Artificial intelligence.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Idea Emergence",
       "path": "Own notes/Concepts/Idea Emergence.md"
-    },
-    {
-      "basename": "Types of Christianity",
-      "path": "Own notes/Facts/Types of Christianity.md"
     }
   ],
   "omittedPaths": [],
