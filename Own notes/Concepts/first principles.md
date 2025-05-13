@@ -1,6 +1,6 @@
-> It is a framework for thinking. Boil things down to their fundamental truths and reason them out from there. Rather than reasoning by analogy.
-> 
-> - Elon Musk
+# First Principles thinking
+> [!info]
+> It is a framework for thinking. Boil things down to their fundamental truths and reason them out from there. Rather than reasoning by analogy. - Elon Musk
 
 First principles thinking is a problem-solving method that involves breaking down complex problems into their most basic elements and then reevaluating everything from scratch. Instead of relying on analogies or past experiences, first principles thinking starts with fundamental truths or facts that are incontrovertible. By reasoning from these foundational principles, one can derive innovative solutions or understandings.
 

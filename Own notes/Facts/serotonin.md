@@ -19,7 +19,7 @@ Serotonin is one of the key neurotransmitters involved in **modulating mood**, 
 - Acts as a natural mood stabilizer
 - Promotes feelings of happiness and emotional stability
 - Helps regulate anxiety levels
-- Works with other neurotransmitters (like [[dopamine]]) to balance emotions
+- Works with other neurotransmitters (like [[Dopamine]]) to balance emotions
 - Contributes to self-esteem and emotional well-being
 - Influences frustration tolerance and irritability **levels**
 

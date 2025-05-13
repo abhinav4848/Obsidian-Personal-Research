@@ -9,7 +9,7 @@
 		{"id":"83548d7ad64aa2e3","type":"text","text":"Dopamine released & transmitted to [[Nucleus Accumbens]]","x":-200,"y":54,"width":239,"height":87,"color":"4"},
 		{"id":"1c33b4e5e3c129ee","type":"text","text":"Over time, repeated exposures lead to habit.","x":-258,"y":435,"width":250,"height":60,"color":"4"},
 		{"id":"27ffcfa6afe39fca","type":"text","text":"if an anticipated reward doesn’t result in the expected pleasure, the feedback loop may reduce the motivation to pursue that specific reward in the future.","x":-575,"y":305,"width":250,"height":215,"color":"6"},
-		{"id":"3eed8eb70900ba2a","type":"file","file":"Reward system of the brain.md","x":-315,"y":-600,"width":400,"height":160}
+		{"id":"3eed8eb70900ba2a","type":"file","file":"Own notes/Facts/Reward system of the brain.md","x":-315,"y":-600,"width":400,"height":160}
 	],
 	"edges":[
 		{"id":"2e5bab2c599e7313","fromNode":"1b10f62a41633a39","fromSide":"bottom","toNode":"9d806d66c219a3d2","toSide":"top"},

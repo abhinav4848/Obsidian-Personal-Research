@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16a29317eaf0cbb3",
+        "id": "d19f7434443a651b",
         "type": "tabs",
         "children": [
           {
-            "id": "219ba0ffbdd5e92e",
+            "id": "860ecbf7dcc1113f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Facts/Nucleus Accumbens.md",
+                "file": "Gestalt Psychology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nucleus Accumbens"
-            }
-          },
-          {
-            "id": "1ebc31910740bd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Concepts/Pigeons in a box.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pigeons in a box"
-            }
-          },
-          {
-            "id": "4ab8ee16038e22df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet and Artificial intelligence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Internet and Artificial intelligence"
-            }
-          },
-          {
-            "id": "c06efb54cabdd153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rene Descartes"
-            }
-          },
-          {
-            "id": "f3fabb7b137efe68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Psychology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Psychology"
-            }
-          },
-          {
-            "id": "3c3b85ab7311d9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How antidepressants work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How antidepressants work"
+              "title": "Gestalt Psychology"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"URLs\"]",
+                "query": "rene de",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -329,15 +208,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c3b85ab7311d9a4",
+  "active": "860ecbf7dcc1113f",
   "lastOpenFiles": [
-    "_attachments/How antidepressants are expected to work.png",
-    "How antidepressants work.md",
-    "Introduction to Psychology.md",
-    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
-    "Internet and Artificial intelligence.md",
-    "desktop.ini",
+    "perception.md",
+    "Gestalt Psychology.md",
+    "levels of analysis in psychology.md",
     "Own notes/Concepts/Pigeons in a box.md",
+    "Own notes/Concepts/Variable ratio reinforcement schedule.md",
+    "Own notes/Concepts/Schedule of Reinforcement.md",
+    "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
+    "Own notes/Concepts/first principles.md",
+    "Own notes/Facts/Introduction to Psychology.md",
+    "Own notes/Facts/Introduction to Philosophy.md",
+    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
+    "Own notes/Facts/Nucleus Accumbens.md",
+    "Own notes/Facts/serotonin.md",
+    "Own notes/History & Myths/tied to a basket.md",
+    "Own notes/Concepts/Pace Layering- How Complex Systems Learn and Keep Learning.md",
+    "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
+    "Own notes/Concepts/addiction.md",
+    "Own notes/Facts/Internet and Artificial intelligence.md",
+    "Own notes/Facts/How antidepressants work.md",
+    "_attachments/How antidepressants are expected to work.png",
+    "desktop.ini",
     "Own notes/Concepts/Maslow's hierarchy of needs.md",
     "Own notes/Concepts/How to think.md",
     "Own notes/Philosophy/philosophy reference/1984 (1949).md",
@@ -346,19 +239,7 @@
     "Own notes/Concepts/agency.md",
     "Own notes/Rules, Laws/Dunning Kruger Effect.md",
     "Books/The Psychology of Money.md",
-    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
-    "Own notes/Philosophy/philosophy reference/Seneca.md",
-    "Own notes/Philosophy/philosophy reference/Epictetus.md",
-    "Own notes/Concepts/School syllabus is flawed.md",
-    "Own notes/Concepts/Useful websites and links.md",
-    "amygdala.md",
-    "Reward system of the brain.md",
-    "Dopamine.md",
-    "Own notes/Concepts/Skinner box.md",
-    "Own notes/Rules, Laws/Premack Principle.md",
-    "addiction.md",
-    "serotonin.md",
-    "Reward system of the brain (flowchart).canvas",
+    "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
     "Own notes/Rules, Laws/_attachments",
@@ -372,7 +253,6 @@
     "Own notes/Concepts/_attachments",
     "Untitled",
     "Books",
-    "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
     "Own notes/Facts/_attachments",
     "Own notes/Facts/_attachments",
     "LizardsFromOuterSpace/_attachments",

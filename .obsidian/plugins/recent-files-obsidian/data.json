@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "How antidepressants work",
-      "path": "How antidepressants work.md"
+      "basename": "Gestalt Psychology",
+      "path": "Gestalt Psychology.md"
     },
     {
-      "basename": "How antidepressants are expected to work",
-      "path": "_attachments/How antidepressants are expected to work.png"
+      "basename": "perception",
+      "path": "perception.md"
+    },
+    {
+      "basename": "levels of analysis in psychology",
+      "path": "levels of analysis in psychology.md"
+    },
+    {
+      "basename": "Pigeons in a box",
+      "path": "Own notes/Concepts/Pigeons in a box.md"
+    },
+    {
+      "basename": "Variable ratio reinforcement schedule",
+      "path": "Own notes/Concepts/Variable ratio reinforcement schedule.md"
+    },
+    {
+      "basename": "Schedule of Reinforcement",
+      "path": "Own notes/Concepts/Schedule of Reinforcement.md"
+    },
+    {
+      "basename": "Symbiotic effect of secondary reinforcers and variable ratio schedules",
+      "path": "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md"
+    },
+    {
+      "basename": "first principles",
+      "path": "Own notes/Concepts/first principles.md"
     },
     {
       "basename": "Introduction to Psychology",
-      "path": "Introduction to Psychology.md"
+      "path": "Own notes/Facts/Introduction to Psychology.md"
+    },
+    {
+      "basename": "Introduction to Philosophy",
+      "path": "Own notes/Facts/Introduction to Philosophy.md"
     },
     {
       "basename": "Rene Descartes",
       "path": "Own notes/Philosophy/philosophy reference/Rene Descartes.md"
     },
     {
-      "basename": "Internet and Artificial intelligence",
-      "path": "Internet and Artificial intelligence.md"
+      "basename": "Nucleus Accumbens",
+      "path": "Own notes/Facts/Nucleus Accumbens.md"
     },
     {
-      "basename": "Pigeons in a box",
-      "path": "Own notes/Concepts/Pigeons in a box.md"
+      "basename": "serotonin",
+      "path": "Own notes/Facts/serotonin.md"
+    },
+    {
+      "basename": "tied to a basket",
+      "path": "Own notes/History & Myths/tied to a basket.md"
+    },
+    {
+      "basename": "Pace Layering- How Complex Systems Learn and Keep Learning",
+      "path": "Own notes/Concepts/Pace Layering- How Complex Systems Learn and Keep Learning.md"
+    },
+    {
+      "basename": "addiction",
+      "path": "Own notes/Concepts/addiction.md"
+    },
+    {
+      "basename": "Internet and Artificial intelligence",
+      "path": "Own notes/Facts/Internet and Artificial intelligence.md"
+    },
+    {
+      "basename": "How antidepressants work",
+      "path": "Own notes/Facts/How antidepressants work.md"
+    },
+    {
+      "basename": "How antidepressants are expected to work",
+      "path": "_attachments/How antidepressants are expected to work.png"
     },
     {
       "basename": "Maslow's hierarchy of needs",
@@ -78,15 +130,15 @@
     },
     {
       "basename": "amygdala",
-      "path": "amygdala.md"
+      "path": "Own notes/Facts/amygdala.md"
     },
     {
       "basename": "Reward system of the brain",
-      "path": "Reward system of the brain.md"
+      "path": "Own notes/Facts/Reward system of the brain.md"
     },
     {
       "basename": "Dopamine",
-      "path": "Dopamine.md"
+      "path": "Own notes/Facts/Dopamine.md"
     },
     {
       "basename": "Skinner box",
@@ -97,20 +149,8 @@
       "path": "Own notes/Rules, Laws/Premack Principle.md"
     },
     {
-      "basename": "addiction",
-      "path": "addiction.md"
-    },
-    {
-      "basename": "serotonin",
-      "path": "serotonin.md"
-    },
-    {
-      "basename": "Nucleus Accumbens",
-      "path": "Own notes/Facts/Nucleus Accumbens.md"
-    },
-    {
       "basename": "Reward system of the brain (flowchart)",
-      "path": "Reward system of the brain (flowchart).canvas"
+      "path": "Own notes/Facts/Reward system of the brain (flowchart).canvas"
     },
     {
       "basename": "Rockerfeller",
@@ -119,10 +159,6 @@
     {
       "basename": "Response to change",
       "path": "Own notes/Rules, Laws/_attachments/Response to change.png"
-    },
-    {
-      "basename": "Symbiotic effect of secondary reinforcers and variable ratio schedules",
-      "path": "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md"
     },
     {
       "basename": "Sociology",
@@ -135,10 +171,6 @@
     {
       "basename": "response to change",
       "path": "Own notes/Rules, Laws/response to change.md"
-    },
-    {
-      "basename": "Schedule of Reinforcement",
-      "path": "Own notes/Concepts/Schedule of Reinforcement.md"
     },
     {
       "basename": "Reinforcers of activity",
@@ -167,38 +199,6 @@
     {
       "basename": "primary motivational factors",
       "path": "Own notes/Concepts/primary motivational factors.md"
-    },
-    {
-      "basename": "Maslow's Hierarchy of Needs",
-      "path": "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png"
-    },
-    {
-      "basename": "Reactance",
-      "path": "Own notes/Concepts/Reactance.md"
-    },
-    {
-      "basename": "ReadMe",
-      "path": "ReadMe.md"
-    },
-    {
-      "basename": "Immanuel Kant",
-      "path": "Own notes/Philosophy/philosophy reference/Immanuel Kant.md"
-    },
-    {
-      "basename": "Variable ratio reinforcement schedule",
-      "path": "Own notes/Concepts/Variable ratio reinforcement schedule.md"
-    },
-    {
-      "basename": "learned helplessness",
-      "path": "Own notes/Concepts/learned helplessness.md"
-    },
-    {
-      "basename": "Robert Nozick",
-      "path": "Own notes/Philosophy/philosophy reference/Robert Nozick.md"
-    },
-    {
-      "basename": "Thomas Hobbes",
-      "path": "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md"
     }
   ],
   "omittedPaths": [],
