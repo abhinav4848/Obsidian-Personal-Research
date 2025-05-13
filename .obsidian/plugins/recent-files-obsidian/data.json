@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "How antidepressants work",
+      "path": "How antidepressants work.md"
+    },
+    {
+      "basename": "How antidepressants are expected to work",
+      "path": "_attachments/How antidepressants are expected to work.png"
+    },
+    {
       "basename": "Introduction to Psychology",
       "path": "Introduction to Psychology.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Thomas Hobbes",
       "path": "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md"
-    },
-    {
-      "basename": "Spaced Repetition",
-      "path": "Own notes/Concepts/Spaced Repetition.md"
-    },
-    {
-      "basename": "Idea Emergence",
-      "path": "Own notes/Concepts/Idea Emergence.md"
     }
   ],
   "omittedPaths": [],

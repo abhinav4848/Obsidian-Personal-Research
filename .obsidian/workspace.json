@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Introduction to Psychology"
             }
+          },
+          {
+            "id": "3c3b85ab7311d9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How antidepressants work.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How antidepressants work"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -305,10 +329,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3fabb7b137efe68",
+  "active": "3c3b85ab7311d9a4",
   "lastOpenFiles": [
-    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
+    "_attachments/How antidepressants are expected to work.png",
+    "How antidepressants work.md",
     "Introduction to Psychology.md",
+    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
     "Internet and Artificial intelligence.md",
     "desktop.ini",
     "Own notes/Concepts/Pigeons in a box.md",
@@ -332,9 +358,7 @@
     "Own notes/Rules, Laws/Premack Principle.md",
     "addiction.md",
     "serotonin.md",
-    "Own notes/Facts/Nucleus Accumbens.md",
     "Reward system of the brain (flowchart).canvas",
-    "Own notes/Public People/Rockerfeller.md",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
     "Own notes/Rules, Laws/_attachments",
@@ -349,7 +373,6 @@
     "Untitled",
     "Books",
     "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
-    "Own notes/Facts/_attachments/Nucleus accumbens.png",
     "Own notes/Facts/_attachments",
     "Own notes/Facts/_attachments",
     "LizardsFromOuterSpace/_attachments",
