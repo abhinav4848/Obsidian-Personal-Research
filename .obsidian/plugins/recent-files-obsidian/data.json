@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "How memory works",
+      "path": "How memory works.md"
+    },
+    {
       "basename": "Gestalt Psychology",
       "path": "Gestalt Psychology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "secondary motivational factors",
       "path": "Own notes/Concepts/secondary motivational factors.md"
-    },
-    {
-      "basename": "primary motivational factors",
-      "path": "Own notes/Concepts/primary motivational factors.md"
     }
   ],
   "omittedPaths": [],

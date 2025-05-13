@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Gestalt Psychology"
             }
+          },
+          {
+            "id": "7dd11fafd8ed6877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How memory works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How memory works"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "860ecbf7dcc1113f",
+  "active": "7dd11fafd8ed6877",
   "lastOpenFiles": [
-    "perception.md",
     "Gestalt Psychology.md",
+    "How memory works.md",
+    "perception.md",
     "levels of analysis in psychology.md",
     "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
@@ -238,7 +264,6 @@
     "Own notes/Philosophy/Essays/What is a good life.md",
     "Own notes/Concepts/agency.md",
     "Own notes/Rules, Laws/Dunning Kruger Effect.md",
-    "Books/The Psychology of Money.md",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
