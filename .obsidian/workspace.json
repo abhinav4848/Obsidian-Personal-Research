@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How memory works.md",
+                "file": "Own notes/Concepts/Useful websites and links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How memory works"
+              "title": "Useful websites and links"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rene de",
+                "query": "dictiona",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,8 +236,8 @@
   },
   "active": "7dd11fafd8ed6877",
   "lastOpenFiles": [
-    "Gestalt Psychology.md",
     "How memory works.md",
+    "Gestalt Psychology.md",
     "perception.md",
     "levels of analysis in psychology.md",
     "Own notes/Concepts/Pigeons in a box.md",
