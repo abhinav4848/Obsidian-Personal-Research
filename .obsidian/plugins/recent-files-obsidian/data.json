@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Levels of analysis in psychology",
+      "path": "Own notes/Concepts/Levels of analysis in psychology.md"
+    },
+    {
+      "basename": "How memory works",
+      "path": "Own notes/Facts/How memory works.md"
+    },
+    {
+      "basename": "Balint Group",
+      "path": "Own notes/Rules, Laws/Balint Group.md"
+    },
+    {
+      "basename": "Schwartz Round",
+      "path": "Own notes/Rules, Laws/Schwartz Round.md"
+    },
+    {
+      "basename": "perception",
+      "path": "Own notes/Facts/perception.md"
+    },
+    {
       "basename": "Useful websites and links",
       "path": "Own notes/Concepts/Useful websites and links.md"
     },
     {
-      "basename": "How memory works",
-      "path": "How memory works.md"
-    },
-    {
       "basename": "Gestalt Psychology",
-      "path": "Gestalt Psychology.md"
-    },
-    {
-      "basename": "perception",
-      "path": "perception.md"
-    },
-    {
-      "basename": "levels of analysis in psychology",
-      "path": "levels of analysis in psychology.md"
+      "path": "Own notes/Concepts/Gestalt Psychology.md"
     },
     {
       "basename": "Pigeons in a box",
@@ -191,14 +199,6 @@
     {
       "basename": "Dunning Kruger Effect- Fancy names of each point",
       "path": "_attachments/Dunning Kruger Effect- Fancy names of each point.png"
-    },
-    {
-      "basename": "Dunning Kruger Effect- Original guide",
-      "path": "_attachments/Dunning Kruger Effect- Original guide.png"
-    },
-    {
-      "basename": "secondary motivational factors",
-      "path": "Own notes/Concepts/secondary motivational factors.md"
     }
   ],
   "omittedPaths": [],

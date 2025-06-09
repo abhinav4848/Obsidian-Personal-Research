@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d19f7434443a651b",
+        "id": "e06fdc9cbd4e14a4",
         "type": "tabs",
         "children": [
           {
-            "id": "860ecbf7dcc1113f",
+            "id": "58efd882566c09fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestalt Psychology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gestalt Psychology"
-            }
-          },
-          {
-            "id": "7dd11fafd8ed6877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own notes/Concepts/Useful websites and links.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Useful websites and links"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dictiona",
+                "query": "balin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/People/Martha Beck (life coach).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Martha Beck (life coach)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -174,7 +133,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -186,10 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own notes/People/Martha Beck (life coach).md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Martha Beck (life coach)"
+              "title": "Outline"
             }
           },
           {
@@ -217,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,13 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd11fafd8ed6877",
+  "active": "17d0456b907acce1",
   "lastOpenFiles": [
+    "Own notes/Concepts/Levels of analysis in psychology.md",
+    "Own notes/Facts/How memory works.md",
+    "Own notes/Rules, Laws/Balint Group.md",
+    "Own notes/Rules, Laws/Schwartz Round.md",
+    "Own notes/Facts/perception.md",
+    "Own notes/Concepts/Useful websites and links.md",
     "desktop.ini",
-    "How memory works.md",
-    "Gestalt Psychology.md",
-    "perception.md",
-    "levels of analysis in psychology.md",
+    "Own notes/Concepts/Gestalt Psychology.md",
     "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
@@ -262,8 +228,6 @@
     "Own notes/Concepts/How to think.md",
     "Own notes/Philosophy/philosophy reference/1984 (1949).md",
     "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
-    "Own notes/Philosophy/Essays/What is a good life.md",
-    "Own notes/Concepts/agency.md",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",
