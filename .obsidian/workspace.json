@@ -11,10 +11,24 @@
             "id": "58efd882566c09fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Own notes/History & Myths/tied to a basket.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "tied to a basket"
             }
           }
         ]
@@ -119,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Own notes/History & Myths/tied to a basket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from tied to a basket"
             }
           },
           {
@@ -193,11 +208,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "58efd882566c09fb",
   "lastOpenFiles": [
+    "Own notes/History & Myths/Hellenistic World.md",
     "desktop.ini",
     "Own notes/Concepts/Levels of analysis in psychology.md",
     "Own notes/Facts/How memory works.md",
