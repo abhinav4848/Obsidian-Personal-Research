@@ -3,7 +3,7 @@ aliases:
   - Science of Habit formation
 ---
 See ![[Reward system of the brain (flowchart).canvas|Reward system of the brain (flowchart)]]
-The reward systems of the brain are a group of structures that are activated whenever we experience something rewarding, such as eating a nice-tasting food, having sex, or using an [[addiction|addictive]] drug. Structures that are considered to be a part of this reward system are found along the primary [[Dopamine]] pathways of the brain. 
+The reward systems of the brain are a group of structures that are activated whenever we experience something rewarding, such as eating a nice-tasting food, having sex, or using an [[Addiction|addictive]] drug. Structures that are considered to be a part of this reward system are found along the primary [[Dopamine]] pathways of the brain. 
 
 > When exposed to a stimulus that is rewarding, the brain responds by releasing an increased amount of Dopamine. 
 

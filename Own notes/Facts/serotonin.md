@@ -5,7 +5,7 @@ Serotonin is a neurotransmitter that regulates **mood, sleep, appetite**, and
 **high levels**: serotonin syndrome, which could lead to symptoms of restlessness, hallucinations, and confusion.
 
 # Function
-## Behavior
+## Behaviour
 Serotonin is projected from the **brain stem** and reaches most regions of the brain, giving it a wide array of effects on many aspects of behavior:
 - Controls attention, perception, and memory
 - Regulates anger and aggression

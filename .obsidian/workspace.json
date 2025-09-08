@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/History & Myths/tied to a basket.md",
+                "file": "Own notes/Facts/serotonin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tied to a basket"
+              "title": "serotonin"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "balin",
+                "query": "https://thewarrenai.com/web/education/annual-letters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,11 +90,12 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/History & Myths/tied to a basket.md",
+                "file": "Own notes/Facts/serotonin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tied to a basket"
+              "title": "Outgoing links from serotonin"
             }
           },
           {
@@ -176,8 +177,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -203,17 +204,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "58efd882566c09fb",
+  "active": "371cc9518e6855d8",
   "lastOpenFiles": [
+    "Own notes/Concepts/Addiction.md",
+    "Own notes/Concepts/Agency.md",
+    "Own notes/Concepts/Contextual collapse.md",
+    "Own notes/Concepts/Emergence.md",
+    "Own notes/Concepts/First principles.md",
+    "Own notes/Rules, Laws/Dunning Kruger Effect.md",
+    "Own notes/History & Myths/tied to a basket.md",
     "desktop.ini",
     "Own notes/History & Myths/Hellenistic World.md",
     "Own notes/Concepts/Levels of analysis in psychology.md",
@@ -227,21 +235,15 @@
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
     "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
-    "Own notes/Concepts/first principles.md",
     "Own notes/Facts/Introduction to Psychology.md",
     "Own notes/Facts/Introduction to Philosophy.md",
     "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
     "Own notes/Facts/Nucleus Accumbens.md",
     "Own notes/Facts/serotonin.md",
-    "Own notes/History & Myths/tied to a basket.md",
     "Own notes/Concepts/Pace Layering- How Complex Systems Learn and Keep Learning.md",
     "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
-    "Own notes/Concepts/addiction.md",
     "Own notes/Facts/Internet and Artificial intelligence.md",
-    "Own notes/Facts/How antidepressants work.md",
     "_attachments/How antidepressants are expected to work.png",
-    "Own notes/Concepts/Maslow's hierarchy of needs.md",
-    "Own notes/Concepts/How to think.md",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
     "_attachments/Response to change.png",

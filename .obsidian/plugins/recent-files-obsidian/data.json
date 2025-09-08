@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "serotonin",
+      "path": "Own notes/Facts/serotonin.md"
+    },
+    {
+      "basename": "Addiction",
+      "path": "Own notes/Concepts/Addiction.md"
+    },
+    {
+      "basename": "Agency",
+      "path": "Own notes/Concepts/Agency.md"
+    },
+    {
+      "basename": "Contextual collapse",
+      "path": "Own notes/Concepts/Contextual collapse.md"
+    },
+    {
+      "basename": "Emergence",
+      "path": "Own notes/Concepts/Emergence.md"
+    },
+    {
+      "basename": "First principles",
+      "path": "Own notes/Concepts/First principles.md"
+    },
+    {
+      "basename": "Dunning Kruger Effect",
+      "path": "Own notes/Rules, Laws/Dunning Kruger Effect.md"
+    },
+    {
       "basename": "tied to a basket",
       "path": "Own notes/History & Myths/tied to a basket.md"
     },
@@ -53,10 +81,6 @@
       "path": "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md"
     },
     {
-      "basename": "first principles",
-      "path": "Own notes/Concepts/first principles.md"
-    },
-    {
       "basename": "Introduction to Psychology",
       "path": "Own notes/Facts/Introduction to Psychology.md"
     },
@@ -73,16 +97,8 @@
       "path": "Own notes/Facts/Nucleus Accumbens.md"
     },
     {
-      "basename": "serotonin",
-      "path": "Own notes/Facts/serotonin.md"
-    },
-    {
       "basename": "Pace Layering- How Complex Systems Learn and Keep Learning",
       "path": "Own notes/Concepts/Pace Layering- How Complex Systems Learn and Keep Learning.md"
-    },
-    {
-      "basename": "addiction",
-      "path": "Own notes/Concepts/addiction.md"
     },
     {
       "basename": "Internet and Artificial intelligence",
@@ -115,14 +131,6 @@
     {
       "basename": "What is a good life",
       "path": "Own notes/Philosophy/Essays/What is a good life.md"
-    },
-    {
-      "basename": "agency",
-      "path": "Own notes/Concepts/agency.md"
-    },
-    {
-      "basename": "Dunning Kruger Effect",
-      "path": "Own notes/Rules, Laws/Dunning Kruger Effect.md"
     },
     {
       "basename": "The Psychology of Money",
@@ -191,14 +199,6 @@
     {
       "basename": "Reinforcers of activity",
       "path": "Own notes/Concepts/Reinforcers of activity.md"
-    },
-    {
-      "basename": "Response to change 2",
-      "path": "_attachments/Response to change 2.png"
-    },
-    {
-      "basename": "Dunning Kruger Effect in Business",
-      "path": "_attachments/Dunning Kruger Effect in Business.png"
     }
   ],
   "omittedPaths": [],

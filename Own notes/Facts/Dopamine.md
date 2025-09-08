@@ -4,7 +4,7 @@ tags:
 ---
 Dopamine is a neurotransmitter in the brain associated with pleasure, reward, motivation, and motor control.
 
-In psychology, dopamine is linked to feelings of gratification and is implicated in mood disorders, [[addiction]], and certain behaviors when its levels are imbalanced.
+In psychology, dopamine is linked to feelings of gratification and is implicated in mood disorders, [[Addiction]], and certain behaviors when its levels are imbalanced.
 
 Dopamine acts as the **brain’s reward chemical** that is released during pleasurable experiences, working with the brain’s reward system. 
 
