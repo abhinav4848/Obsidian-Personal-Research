@@ -211,7 +211,7 @@ tags:
     [https://jessicaabel.com/blog/](https://jessicaabel.com/blog/)
     
 61. **Maggie Appleton – Digital Gardening** – Visual thinking, anthropology of tech, and mind expansion.  
-    [https://maggieappleton.com/blog](https://maggieappleton.com/blog)
+    [https://maggieappleton.com/](https://maggieappleton.com)
 # Database of concepts
 Sites that offer texts on memory, learning, sleep, creativity, problem solving, brain science, health, and education. 
 1. [Abstract knowledge - supermemo.guru](https://supermemo.guru/wiki/Abstract_knowledge)

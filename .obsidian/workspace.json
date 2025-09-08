@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Facts/serotonin.md",
+                "file": "Own notes/Concepts/Useful websites and links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "serotonin"
+              "title": "Useful websites and links"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://thewarrenai.com/web/education/annual-letters",
+                "query": "nesslabs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/Facts/serotonin.md",
+                "file": "Own notes/Concepts/Useful websites and links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from serotonin"
+              "title": "Outgoing links from Useful websites and links"
             }
           },
           {
@@ -150,7 +150,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -163,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Own notes/Concepts/Useful websites and links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Useful websites and links"
             }
           },
           {
@@ -177,8 +178,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -196,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -214,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "371cc9518e6855d8",
+  "active": "58efd882566c09fb",
   "lastOpenFiles": [
+    "Own notes/Facts/serotonin.md",
     "Own notes/Concepts/Addiction.md",
     "Own notes/Concepts/Agency.md",
     "Own notes/Concepts/Contextual collapse.md",
@@ -240,7 +242,6 @@
     "Own notes/Facts/Introduction to Philosophy.md",
     "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
     "Own notes/Facts/Nucleus Accumbens.md",
-    "Own notes/Facts/serotonin.md",
     "Own notes/Concepts/Pace Layering- How Complex Systems Learn and Keep Learning.md",
     "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
     "Own notes/Facts/Internet and Artificial intelligence.md",
