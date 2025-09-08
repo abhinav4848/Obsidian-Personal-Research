@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/Useful websites and links.md",
+                "file": "Own notes/Concepts/Variable ratio reinforcement schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Useful websites and links"
+              "title": "Variable ratio reinforcement schedule"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/Concepts/Useful websites and links.md",
+                "file": "Own notes/Concepts/Variable ratio reinforcement schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Useful websites and links"
+              "title": "Outgoing links from Variable ratio reinforcement schedule"
             }
           },
           {
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own notes/Concepts/Useful websites and links.md",
+                "file": "Own notes/Concepts/Variable ratio reinforcement schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Useful websites and links"
+              "title": "Outline of Variable ratio reinforcement schedule"
             }
           },
           {
@@ -217,12 +216,15 @@
   },
   "active": "58efd882566c09fb",
   "lastOpenFiles": [
+    "Own notes/Concepts/First principles.md",
+    "Own notes/Concepts/Emergence.md",
+    "Own notes/Concepts/dogma.md",
+    "Own notes/Philosophy/Essays/What is a good life.md",
+    "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Facts/serotonin.md",
     "Own notes/Concepts/Addiction.md",
     "Own notes/Concepts/Agency.md",
     "Own notes/Concepts/Contextual collapse.md",
-    "Own notes/Concepts/Emergence.md",
-    "Own notes/Concepts/First principles.md",
     "Own notes/Rules, Laws/Dunning Kruger Effect.md",
     "Own notes/History & Myths/tied to a basket.md",
     "desktop.ini",
@@ -232,7 +234,6 @@
     "Own notes/Rules, Laws/Balint Group.md",
     "Own notes/Rules, Laws/Schwartz Round.md",
     "Own notes/Facts/perception.md",
-    "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Concepts/Gestalt Psychology.md",
     "Own notes/Concepts/Pigeons in a box.md",
     "Own notes/Concepts/Variable ratio reinforcement schedule.md",
@@ -242,9 +243,7 @@
     "Own notes/Facts/Introduction to Philosophy.md",
     "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
     "Own notes/Facts/Nucleus Accumbens.md",
-    "Own notes/Concepts/Pace Layering- How Complex Systems Learn and Keep Learning.md",
     "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
-    "Own notes/Facts/Internet and Artificial intelligence.md",
     "_attachments/How antidepressants are expected to work.png",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments/Response to change.png",
