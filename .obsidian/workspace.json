@@ -94,8 +94,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +177,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -211,12 +210,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "371cc9518e6855d8",
+  "active": "89b29ae690c7f770",
   "lastOpenFiles": [
+    "desktop.ini",
     "Own notes/Concepts/First principles.md",
     "Own notes/Concepts/Emergence.md",
     "Own notes/Concepts/dogma.md",
@@ -228,7 +227,6 @@
     "Own notes/Concepts/Contextual collapse.md",
     "Own notes/Rules, Laws/Dunning Kruger Effect.md",
     "Own notes/History & Myths/tied to a basket.md",
-    "desktop.ini",
     "Own notes/History & Myths/Hellenistic World.md",
     "Own notes/Concepts/Levels of analysis in psychology.md",
     "Own notes/Facts/How memory works.md",
@@ -243,7 +241,6 @@
     "Own notes/Facts/Introduction to Psychology.md",
     "Own notes/Facts/Introduction to Philosophy.md",
     "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
-    "Own notes/Facts/Nucleus Accumbens.md",
     "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
     "_attachments/How antidepressants are expected to work.png",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
