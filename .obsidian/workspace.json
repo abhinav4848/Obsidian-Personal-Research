@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nesslabs",
+                "query": "induc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58efd882566c09fb",
+  "active": "371cc9518e6855d8",
   "lastOpenFiles": [
     "Own notes/Concepts/First principles.md",
     "Own notes/Concepts/Emergence.md",
