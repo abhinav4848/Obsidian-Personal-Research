@@ -13,7 +13,7 @@ In investing:
 >As the saying goes, "everyone is a genius in a bull market."
 >When markets are ripping and your portfolio seem s to grow by the day, many fall victim to the Dunning-Kruger Effect. 
 >We may wrongly attribute this performance to our innate talent as investors.
->- [[The psychology of Money]]
+>- [[The Psychology of Money]]
 
 ## Reference
 1. https://www.linkedin.com/pulse/dunning-kruger-effect-101-tarun-aggarwal/ 

@@ -11,24 +11,15 @@
             "id": "58efd882566c09fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Own notes/Concepts/Dogma.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".trash/122- unsurprising & useless information.md",
+                "bFile": ".trash/122- unsurprising & useless information.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Dogma"
+              "icon": "diff",
+              "title": "Diff: 122- unsurprising & useless information"
             }
           }
         ]
@@ -94,8 +85,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Rules, Laws/five stages of grief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for five stages of grief"
+              "title": "Backlinks"
             }
           },
           {
@@ -201,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,52 +206,54 @@
   },
   "active": "58efd882566c09fb",
   "lastOpenFiles": [
-    "Own notes/Concepts/Variable ratio reinforcement schedule.md",
+    "Own notes/Books/The Psychology of Money.md",
+    "Own notes/rename-to-lower.sh",
+    "Own notes/_attachments/Spaced Repetition- Before and after.png",
+    "readme.md",
+    "Own notes/_attachments/spaced repetition- revision excel sheet used by ali abdaal.png",
+    "Own notes/_attachments/spaced repetition- forgetting curve dark bg.png",
+    "Own notes/_attachments/spaced repetition- effectiveness of different study methods.png",
+    "Own notes/_attachments/spaced repetition- before and after.png",
+    "Own notes/Rules, Laws/_attachments/response to change.png",
+    "Own notes/Rules, Laws/schwartz round.md",
+    "Own notes/Rules, Laws/premack principle.md",
+    "Own notes/Rules, Laws/no true scotsman fallacy.md",
+    "Own notes/Rules, Laws/dunning kruger effect.md",
+    "Own notes/Rules, Laws/balint group.md",
+    "Own notes/Rituals/perfect day exercise.md",
+    "Own notes/Public People/rockerfeller.md",
+    "Own notes/Public People/martha beck (life coach).md",
+    "Own notes/Public People/brian cox (british physicist).md",
+    "Own notes/History & Myths/hellenistic world.md",
+    "Own notes/Facts/_attachments/nucleus accumbens.png",
+    "Own notes/Facts/types of christianity.md",
+    "Own notes/Facts/reward system of the brain.md",
+    "Own notes/Facts/reward system of the brain (flowchart).canvas",
+    "Own notes/Facts/nucleus accumbens.md",
+    "Own notes/Facts/introduction to psychology.md",
+    "Own notes/Facts/introduction to philosophy.md",
+    "Own notes/Facts/internet and artificial intelligence.md",
+    "Own notes/Facts/how memory works.md",
+    "Own notes/Facts/how antidepressants work.md",
+    "Own notes/Facts/dopamine.md",
+    "Own notes/Concepts/_attachments/maslow's hierarchy of needs.png",
+    "Own notes/Concepts/variable ratio reinforcement schedule.md",
+    "Own notes/Concepts/useful websites and links.md",
+    "Own notes/Concepts/symbiotic effect of secondary reinforcers and variable ratio schedules.md",
+    "Own notes/Concepts/spaced repetition.md",
+    "Own notes/Concepts/sociology.md",
+    "rename-to-lower.sh",
+    "New Text Document.txt",
     "desktop.ini",
-    "Own notes/Concepts/First principles.md",
-    "Own notes/Concepts/Emergence.md",
-    "Own notes/Concepts/Dogma.md",
-    "Own notes/Philosophy/Essays/What is a good life.md",
-    "Own notes/Concepts/Useful websites and links.md",
-    "Own notes/Facts/serotonin.md",
-    "Own notes/Concepts/Addiction.md",
-    "Own notes/Concepts/Agency.md",
-    "Own notes/Concepts/Contextual collapse.md",
-    "Own notes/Rules, Laws/Dunning Kruger Effect.md",
-    "Own notes/History & Myths/tied to a basket.md",
-    "Own notes/History & Myths/Hellenistic World.md",
-    "Own notes/Concepts/Levels of analysis in psychology.md",
-    "Own notes/Facts/How memory works.md",
-    "Own notes/Rules, Laws/Balint Group.md",
-    "Own notes/Rules, Laws/Schwartz Round.md",
-    "Own notes/Facts/perception.md",
-    "Own notes/Concepts/Gestalt Psychology.md",
-    "Own notes/Concepts/Pigeons in a box.md",
-    "Own notes/Concepts/Schedule of Reinforcement.md",
-    "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
-    "Own notes/Facts/Introduction to Psychology.md",
-    "Own notes/Facts/Introduction to Philosophy.md",
-    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
     "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
-    "_attachments/How antidepressants are expected to work.png",
+    "Own notes/_attachments/How antidepressants are expected to work.png",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
-    "Own notes/Rules, Laws/_attachments/Response to change.png",
-    "_attachments/Response to change.png",
     "Own notes/Rules, Laws/_attachments",
-    "_attachments/Response to change 2.png",
-    "_attachments/Dunning Kruger Effect in Business.png",
-    "_attachments/Dunning Kruger Effect- Fancy names of each point.png",
-    "_attachments/Dunning Kruger Effect- Original guide.png",
-    "_attachments",
-    "Own notes/Concepts/_attachments/Maslow's Hierarchy of Needs.png",
-    "Own notes/Concepts/_attachments/Pasted image 20250421224213.png",
+    "Own notes/_attachments",
     "Own notes/Concepts/_attachments",
     "Untitled",
-    "Books",
+    "Own notes/Books",
     "Own notes/Facts/_attachments",
-    "Own notes/Facts/_attachments",
-    "LizardsFromOuterSpace/_attachments",
-    "Ideaverse/_attachments",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
