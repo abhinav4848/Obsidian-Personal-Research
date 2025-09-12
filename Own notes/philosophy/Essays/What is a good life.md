@@ -34,7 +34,7 @@ A good life is one of flourishing and self-improvement. Humans must strive to be
 Aristotle believed in a human essence, which implies that there’s a proper way to be a human being, and live a human life, and that we’ll only flourish by finding that path. Aristotle defined humans as ‘rational animals’, so living a good human life means seeking to know your world, know yourself, and strive to govern yourself through reason. Generally, you should work to be the best, most virtuous version of yourself. But is this goal realistic? And can people who are suffering poverty, war, or torture then ever be said to have good lives?
 
 ## [[Simon Blackburn]]
-Philosophy helps us step back and question our perspectives, allowing us to see things more clearly, understand differing viewpoints, and avoid being [[dogma|dogmatic]].
+Philosophy helps us step back and question our perspectives, allowing us to see things more clearly, understand differing viewpoints, and avoid being [[Dogma|dogmatic]].
 
 ## [[Bertrand Russell]]
 Philosophy does not provide definite answers but is valuable because it broadens our perspectives, enriches imagination, and encourages open-mindedness, which may itself be part of living a good life. 

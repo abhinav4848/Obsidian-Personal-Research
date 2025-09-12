@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/Variable ratio reinforcement schedule.md",
+                "file": "Own notes/Concepts/Dogma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Variable ratio reinforcement schedule"
+              "title": "Dogma"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "induc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,12 +215,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b29ae690c7f770",
+  "active": "58efd882566c09fb",
   "lastOpenFiles": [
+    "Own notes/Concepts/Variable ratio reinforcement schedule.md",
     "desktop.ini",
     "Own notes/Concepts/First principles.md",
     "Own notes/Concepts/Emergence.md",
-    "Own notes/Concepts/dogma.md",
+    "Own notes/Concepts/Dogma.md",
     "Own notes/Philosophy/Essays/What is a good life.md",
     "Own notes/Concepts/Useful websites and links.md",
     "Own notes/Facts/serotonin.md",
@@ -236,7 +238,6 @@
     "Own notes/Facts/perception.md",
     "Own notes/Concepts/Gestalt Psychology.md",
     "Own notes/Concepts/Pigeons in a box.md",
-    "Own notes/Concepts/Variable ratio reinforcement schedule.md",
     "Own notes/Concepts/Schedule of Reinforcement.md",
     "Own notes/Concepts/Symbiotic effect of secondary reinforcers and variable ratio schedules.md",
     "Own notes/Facts/Introduction to Psychology.md",
