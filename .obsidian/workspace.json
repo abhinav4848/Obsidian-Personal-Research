@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e06fdc9cbd4e14a4",
+        "id": "90566c14f62237d5",
         "type": "tabs",
         "children": [
           {
-            "id": "58efd882566c09fb",
+            "id": "4539ff4585eb769d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".trash/122- unsurprising & useless information.md",
-                "bFile": ".trash/122- unsurprising & useless information.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Own notes/Philosophy/Essays/What is a good life.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 122- unsurprising & useless information"
+              "icon": "lucide-file",
+              "title": "What is a good life"
             }
           }
         ]
@@ -105,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Own notes/Philosophy/Essays/What is a good life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for What is a good life"
             }
           },
           {
@@ -204,8 +214,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58efd882566c09fb",
+  "active": "4539ff4585eb769d",
   "lastOpenFiles": [
+    "rename-to-lower.ps1",
+    "Own notes/rename-to-lower.ps1",
+    "Own notes/_attachments/response to change 2.png",
+    "Own notes/_attachments/how antidepressants are expected to work.png",
+    "Own notes/_attachments/dunning kruger effect- original guide.png",
+    "Own notes/_attachments/dunning kruger effect- fancy names of each point.png",
+    "Own notes/_attachments/dunning kruger effect in business.png",
+    "Own notes/Books/the psychology of money.md",
     "Own notes/Books/The Psychology of Money.md",
     "Own notes/rename-to-lower.sh",
     "Own notes/_attachments/Spaced Repetition- Before and after.png",
@@ -214,7 +232,6 @@
     "Own notes/_attachments/spaced repetition- forgetting curve dark bg.png",
     "Own notes/_attachments/spaced repetition- effectiveness of different study methods.png",
     "Own notes/_attachments/spaced repetition- before and after.png",
-    "Own notes/Rules, Laws/_attachments/response to change.png",
     "Own notes/Rules, Laws/schwartz round.md",
     "Own notes/Rules, Laws/premack principle.md",
     "Own notes/Rules, Laws/no true scotsman fallacy.md",
@@ -225,7 +242,6 @@
     "Own notes/Public People/martha beck (life coach).md",
     "Own notes/Public People/brian cox (british physicist).md",
     "Own notes/History & Myths/hellenistic world.md",
-    "Own notes/Facts/_attachments/nucleus accumbens.png",
     "Own notes/Facts/types of christianity.md",
     "Own notes/Facts/reward system of the brain.md",
     "Own notes/Facts/reward system of the brain (flowchart).canvas",
@@ -236,24 +252,18 @@
     "Own notes/Facts/how memory works.md",
     "Own notes/Facts/how antidepressants work.md",
     "Own notes/Facts/dopamine.md",
-    "Own notes/Concepts/_attachments/maslow's hierarchy of needs.png",
     "Own notes/Concepts/variable ratio reinforcement schedule.md",
     "Own notes/Concepts/useful websites and links.md",
     "Own notes/Concepts/symbiotic effect of secondary reinforcers and variable ratio schedules.md",
-    "Own notes/Concepts/spaced repetition.md",
-    "Own notes/Concepts/sociology.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "desktop.ini",
-    "Own notes/Concepts/_attachments/pace_layers_from_fast_to_slow.jpg",
-    "Own notes/_attachments/How antidepressants are expected to work.png",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments",
     "Own notes/_attachments",
     "Own notes/Concepts/_attachments",
     "Untitled",
     "Own notes/Books",
-    "Own notes/Facts/_attachments",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
