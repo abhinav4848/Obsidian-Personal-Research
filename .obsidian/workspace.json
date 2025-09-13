@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/Emergence.md",
+                "file": "inductive reasoning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emergence"
+              "title": "inductive reasoning"
             }
           }
         ],
@@ -119,8 +119,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Concepts/Emergence.md",
+                "file": "inductive reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Emergence"
+              "title": "Backlinks for inductive reasoning"
             }
           },
           {
@@ -242,10 +241,11 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "Own notes/Concepts/idea emergence.md",
+    "Own notes/_attachments/response to change 2.png",
     "Own notes/Concepts/Emergence.md",
     "emergence (defn).md",
-    "Own notes/_attachments/response to change 2.png",
+    "Untitled.base",
+    "Own notes/Concepts/idea emergence.md",
     "inductive reasoning.md",
     "empiricism.md",
     "desktop.ini",
@@ -282,14 +282,12 @@
     "Own notes/Facts/nucleus accumbens.md",
     "Own notes/Facts/introduction to psychology.md",
     "Own notes/Facts/introduction to philosophy.md",
-    "Own notes/Facts/internet and artificial intelligence.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
     "Own notes/Rules, Laws/_attachments",
     "Own notes/_attachments",
     "Own notes/Concepts/_attachments",
-    "Untitled",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]

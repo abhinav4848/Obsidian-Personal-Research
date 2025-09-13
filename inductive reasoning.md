@@ -15,6 +15,9 @@ Induction process isn't as solid as [[deductive reasoning]]. Rather than using b
 
 The premises provide _some_ evidence to build a conclusion. You might think, "But the conclusion might not be true if you’re just pulling from a one-time occurrence or a handful of experiences.", and you're correct. Conclusions derived from induction don’t make them the truth. They show the probability of an event occurring. 
 
+# Example use
+If I leave for work at , I can avoid traffic
+
 ---
 # References
 1. https://practicalpie.com/inductive-reasoning-definition-examples/
