@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Philosophy/Essays/What is a good life.md",
+                "file": "Own notes/Concepts/how to do a good lecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What is a good life"
+              "title": "how to do a good lecture"
+            }
+          },
+          {
+            "id": "158f6f1bce2e5c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inductive reasoning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "inductive reasoning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Philosophy/Essays/What is a good life.md",
+                "file": "inductive reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is a good life"
+              "title": "Backlinks for inductive reasoning"
             }
           },
           {
@@ -214,8 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4539ff4585eb769d",
+  "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
+    "Own notes/Concepts/how to do a good lecture.md",
+    "inductive reasoning.md",
+    "Own notes/Philosophy/Essays/What is a good life.md",
     "rename-to-lower.ps1",
     "Own notes/rename-to-lower.ps1",
     "Own notes/_attachments/response to change 2.png",
@@ -253,8 +281,6 @@
     "Own notes/Facts/how antidepressants work.md",
     "Own notes/Facts/dopamine.md",
     "Own notes/Concepts/variable ratio reinforcement schedule.md",
-    "Own notes/Concepts/useful websites and links.md",
-    "Own notes/Concepts/symbiotic effect of secondary reinforcers and variable ratio schedules.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "desktop.ini",
@@ -263,7 +289,6 @@
     "Own notes/_attachments",
     "Own notes/Concepts/_attachments",
     "Untitled",
-    "Own notes/Books",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
