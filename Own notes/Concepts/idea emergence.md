@@ -1,3 +1,9 @@
+---
+tags:
+  - epistemology
+author:
+  - Nick Milo
+---
 **Idea Emergence** is the process of how the ideas you encounter go from the "nothingness" to the "somethingness"—and how those ideas grow in richness, complexity, and personally meaningful value over time.
 
 - Idea Emergence is how value forms from mixing a person's (or persons') experiences with their uniqueness. 

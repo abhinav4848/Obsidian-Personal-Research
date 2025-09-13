@@ -1,9 +1,13 @@
 ---
 aliases:
   - idea emergence
+author:
+  - Nick Milo
+tags:
+  - epistemology
 ---
 https://rationalwiki.org/wiki/Emergence
 
 see also [[Idea Emergence]], 
-[[Emergence (defn)]],
+[[emergence (defn)]],
 [[050- Connections aren’t immediate]],

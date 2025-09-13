@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inductive reasoning.md",
+                "file": "Own notes/Concepts/Emergence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inductive reasoning"
+              "title": "Emergence"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emergence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inductive reasoning.md",
+                "file": "Own notes/Concepts/Emergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inductive reasoning"
+              "title": "Backlinks for Emergence"
             }
           },
           {
@@ -225,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,14 +242,17 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "empiricism.md",
+    "Own notes/Concepts/idea emergence.md",
+    "Own notes/Concepts/Emergence.md",
+    "emergence (defn).md",
+    "Own notes/_attachments/response to change 2.png",
     "inductive reasoning.md",
+    "empiricism.md",
     "desktop.ini",
     "Own notes/Concepts/how to do a good lecture.md",
     "Own notes/Philosophy/Essays/What is a good life.md",
     "rename-to-lower.ps1",
     "Own notes/rename-to-lower.ps1",
-    "Own notes/_attachments/response to change 2.png",
     "Own notes/_attachments/how antidepressants are expected to work.png",
     "Own notes/_attachments/dunning kruger effect- original guide.png",
     "Own notes/_attachments/dunning kruger effect- fancy names of each point.png",
@@ -279,9 +283,6 @@
     "Own notes/Facts/introduction to psychology.md",
     "Own notes/Facts/introduction to philosophy.md",
     "Own notes/Facts/internet and artificial intelligence.md",
-    "Own notes/Facts/how memory works.md",
-    "Own notes/Facts/how antidepressants work.md",
-    "Own notes/Facts/dopamine.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
