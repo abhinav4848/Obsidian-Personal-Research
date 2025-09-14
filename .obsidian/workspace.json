@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heuristic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b29ae690c7f770",
+  "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "deductive reasoning.md",
+    "Own notes/Concepts/useful websites and links.md",
     "inductive reasoning.md",
+    "deductive reasoning.md",
     "empiricism.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
@@ -283,7 +284,6 @@
     "Own notes/Facts/reward system of the brain (flowchart).canvas",
     "Own notes/Facts/nucleus accumbens.md",
     "Own notes/Facts/introduction to psychology.md",
-    "Own notes/Facts/introduction to philosophy.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
