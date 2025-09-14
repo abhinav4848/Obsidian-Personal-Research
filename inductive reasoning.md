@@ -8,6 +8,7 @@ In contrast to [[deductive reasoning]], which starts with a general statement an
 
 Inductive reasoning uses individual observations and experiences to formulate more general conclusions. So it relies on past experiences and observations. 
 
+![[deduction vs induction.jpg]]
 # Origin of inductive reasoning
 [[Francis Bacon]] is considered the father of inductive reasoning, as he is considered the father of [[empiricism]]. Inductive reasoning uses our senses and experiences to make judgments.
 
@@ -16,7 +17,8 @@ Induction process isn't as solid as [[deductive reasoning]]. Rather than using b
 The premises provide _some_ evidence to build a conclusion. You might think, "But the conclusion might not be true if you’re just pulling from a one-time occurrence or a handful of experiences.", and you're correct. Conclusions derived from induction don’t make them the truth. They show the probability of an event occurring. 
 
 # Example use
-If I leave for work at , I can avoid traffic
+If I leave for work at < time > , I can avoid traffic.
+
 
 ---
 # References
