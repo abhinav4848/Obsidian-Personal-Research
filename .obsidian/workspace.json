@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inductive reasoning.md",
+                "file": "deductive reasoning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inductive reasoning"
+              "title": "deductive reasoning"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inductive reasoning.md",
+                "file": "deductive reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inductive reasoning"
+              "title": "Backlinks for deductive reasoning"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "empiricism.md",
     "inductive reasoning.md",
+    "deductive reasoning.md",
+    "empiricism.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
