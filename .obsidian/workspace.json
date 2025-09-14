@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "websi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,10 +242,10 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "Own notes/Concepts/useful websites and links.md",
-    "inductive reasoning.md",
-    "deductive reasoning.md",
     "empiricism.md",
+    "inductive reasoning.md",
+    "Own notes/Concepts/useful websites and links.md",
+    "deductive reasoning.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
