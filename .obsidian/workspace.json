@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inductive reasoning.md",
+                "file": "heuristic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inductive reasoning"
+              "title": "heuristic"
             }
           }
         ],
@@ -119,8 +119,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inductive reasoning.md",
+                "file": "heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inductive reasoning"
+              "title": "Backlinks for heuristic"
             }
           },
           {
@@ -226,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +241,9 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "empiricism.md",
     "inductive reasoning.md",
+    "heuristic.md",
+    "empiricism.md",
     "Own notes/Concepts/useful websites and links.md",
     "deductive reasoning.md",
     "_attachments/deduction vs induction.jpg",
@@ -284,7 +284,6 @@
     "Own notes/Facts/reward system of the brain.md",
     "Own notes/Facts/reward system of the brain (flowchart).canvas",
     "Own notes/Facts/nucleus accumbens.md",
-    "Own notes/Facts/introduction to psychology.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",

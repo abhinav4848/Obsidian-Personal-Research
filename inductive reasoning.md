@@ -19,9 +19,16 @@ Induction process isn't as solid as [[deductive reasoning]]. Rather than using b
 The premises provide _some_ evidence to build a conclusion. This conclusion might not be true if you’re just pulling from a one-time occurrence or a handful of experiences. Conclusions derived from induction don’t make them the truth. They show the probability of an event occurring. 
 
 # Example use
+After multiple days of leaving for work at different times, you've concluded that **If I leave for work at < time > , I can avoid traffic.** What reasoning is this?
+
+It’s an inductive, conditional rule (a personal [[heuristic]]).
+- **Why it’s inductive:** You’ve observed that on the days you leave at a certain hour, there's less traffic. From those repeated observations you infer a general “rule”: _If I leave at < time >, I’ll avoid traffic._ 
+- **What kind of statement it is:** An **if‑then** (conditional) claim that also expresses a causal link—your departure time causes the outcome of lighter traffic.
+So, in terms of reasoning taxonomy you’re using **inductive reasoning to form a causal/conditional heuristic**.
 
 
-If Sun tends to rise in the east and you want to know where the sun will rise tomorrow, what kind of reasoning will you use?
+
+**If Sun tends to rise in the east and you want to know where the sun will rise tomorrow**, what kind of reasoning will you use?
 
 You’ll use **inductive reasoning**.
 - **What you have:** Repeated observations that *the Sun rises in the east* day after day.  
