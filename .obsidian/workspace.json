@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heuristic.md",
+                "file": "epistemology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "heuristic"
+              "title": "epistemology"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"URLs\"]",
+                "query": "empiri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +119,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heuristic.md",
+                "file": "epistemology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heuristic"
+              "title": "Backlinks for epistemology"
             }
           },
           {
@@ -159,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "heuristic.md",
+                "file": "epistemology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from heuristic"
+              "title": "Outgoing links from epistemology"
             }
           },
           {
@@ -188,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "heuristic.md",
+                "file": "epistemology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of heuristic"
+              "title": "Outline of epistemology"
             }
           },
           {
@@ -227,10 +226,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "heuristic.md"
+                "file": "epistemology.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for heuristic"
+              "title": "File properties for epistemology"
             }
           }
         ]
@@ -251,11 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb21797a6dd3925a",
+  "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "inductive reasoning.md",
-    "heuristic.md",
     "empiricism.md",
+    "heuristic.md",
+    "epistemology.md",
+    "inductive reasoning.md",
     "Own notes/Concepts/useful websites and links.md",
     "deductive reasoning.md",
     "_attachments/deduction vs induction.jpg",
@@ -295,7 +295,6 @@
     "Own notes/Facts/types of christianity.md",
     "Own notes/Facts/reward system of the brain.md",
     "Own notes/Facts/reward system of the brain (flowchart).canvas",
-    "Own notes/Facts/nucleus accumbens.md",
     "rename-to-lower.sh",
     "New Text Document.txt",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
