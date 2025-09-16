@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "websi",
+                "query": "[\"URLs\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/Concepts/Variable ratio reinforcement schedule.md",
+                "file": "heuristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variable ratio reinforcement schedule"
+              "title": "Outgoing links from heuristic"
             }
           },
           {
@@ -187,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own notes/Concepts/Variable ratio reinforcement schedule.md",
+                "file": "heuristic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Variable ratio reinforcement schedule"
+              "title": "Outline of heuristic"
             }
           },
           {
@@ -219,9 +220,20 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "7db243bd171b2fc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "heuristic.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for heuristic"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158f6f1bce2e5c00",
+  "active": "eb21797a6dd3925a",
   "lastOpenFiles": [
     "inductive reasoning.md",
     "heuristic.md",
