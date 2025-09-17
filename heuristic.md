@@ -15,14 +15,18 @@ It is a mental shortcut or rule-of-thumb that simplifies decision making. It hel
 | Cost        | Low computational / mental cost           | Often higher time/space cost                      |
 | Flexibility | Adaptable, can be tweaked on the fly      | Fixed step‑by‑step procedure                      |
 # Why use a heuristic
-Time pressure- You need an answer now. (which route to take to work)
-Limited information- You don't have all the data (estimating the cost of a car)
-Cognitive load- Your brain can't evaluate every possibility (e.g. remembering 30 passwords)
+- Time pressure- You need an answer now. (which route to take to work)
+- Limited information- You don't have all the data (estimating the cost of a car)
+- Cognitive load- Your brain can't evaluate every possibility (e.g. remembering 30 passwords). 
 
 # Some known Psychological heuristics
-1. **Availability heuristic**- Judge the frequency or likelihood by how easily examples come to mind. e.g. After hearing news about a plane crash, you overestimate the danger of flying. 
+1. **Availability heuristic**- Judge the frequency or likelihood by how easily examples come to mind. e.g.
+	1. After hearing news about a plane crash, you overestimate the danger of flying. 
+	2. A doctor quickly diagnoses the flu based on common symptoms
 
-2. **Representativeness heuristic**- Assess probability by similarity to a prototype. Assume someone with glasses is more likely to be a librarian than a farmer. 
+2. **Representativeness heuristic**- Assess probability by similarity to a prototype. 
+	1. Assume someone with glasses is more likely to be a librarian than a farmer. 
+	2. Investors rely on past trends to predict stock performances
 
 3. **Anchoring and adjustment**- Rely heavily on an initial value (anchor) and make insufficient adjustments. e.g. Starting salary negotiations from the first number you hear, even if it's arbitrary. 
 
@@ -38,6 +42,7 @@ Cognitive load- Your brain can't evaluate every possibility (e.g. remembering 30
 - Greedy algorithms (e.g., Dijkstra’s shortest‑path) use a local optimal choice at each step.
 - A* search combines a cost‑to‑date with an admissible heuristic estimating remaining distance.
 - Monte Carlo Tree Search uses random simulations as heuristics to evaluate moves in games like Go.
+- A GPS uses estimated distances to suggest a route. 
 In these contexts, the word “heuristic” refers to any function that estimates how promising a state or action is, without exhaustive calculation.
 
 # Pros and Cons

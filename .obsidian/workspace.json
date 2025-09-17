@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
+                "file": "heuristic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "George Orwell"
+              "title": "heuristic"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plato",
+                "query": "heuristic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
+                "file": "heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for George Orwell"
+              "title": "Backlinks for heuristic"
             }
           },
           {
@@ -158,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
+                "file": "heuristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from George Orwell"
+              "title": "Outgoing links from heuristic"
             }
           },
           {
@@ -187,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
+                "file": "heuristic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of George Orwell"
+              "title": "Outline of heuristic"
             }
           },
           {
@@ -226,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md"
+                "file": "heuristic.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for George Orwell"
+              "title": "File properties for heuristic"
             }
           }
         ]
@@ -252,8 +253,9 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "Own notes/Philosophy/philosophy reference/Aldous Huxley.md",
     "Own notes/Philosophy/philosophy reference/George Orwell.md",
+    "desktop.ini",
+    "Own notes/Philosophy/philosophy reference/Aldous Huxley.md",
     "Own notes/Philosophy/philosophy reference/existentialists.md",
     "Own notes/Philosophy/philosophy reference/Xenophon.md",
     "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
@@ -277,7 +279,6 @@
     "Own notes/Philosophy/philosophy reference/Bertrand Russell.md",
     "Own notes/Philosophy/philosophy reference/Aristotle.md",
     "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
-    "Own notes/Philosophy/philosophy reference/Albert Camus.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
@@ -285,7 +286,6 @@
     "_attachments",
     "Own notes/_attachments/response to change 2.png",
     "Untitled.base",
-    "desktop.ini",
     "rename-to-lower.ps1",
     "Own notes/rename-to-lower.ps1",
     "Own notes/_attachments/how antidepressants are expected to work.png",

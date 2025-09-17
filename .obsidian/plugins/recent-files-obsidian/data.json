@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "heuristic",
+      "path": "heuristic.md"
+    },
+    {
       "basename": "George Orwell",
       "path": "Own notes/Philosophy/philosophy reference/George Orwell.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "empiricism",
       "path": "empiricism.md"
-    },
-    {
-      "basename": "heuristic",
-      "path": "heuristic.md"
     },
     {
       "basename": "inductive reasoning",
