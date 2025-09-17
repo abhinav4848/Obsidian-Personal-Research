@@ -1,0 +1,1 @@
+Syllogisms are a form of [[deductive reasoning]] that helps people discover the truth.

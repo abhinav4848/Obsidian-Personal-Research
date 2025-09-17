@@ -17,8 +17,18 @@ If you are doing inductive reasoning, you are starting with specific observation
 Induction process isn't as solid as [[deductive reasoning]]. Rather than using broad generalizations, induction takes single experiences or facts as premises. This premise could be something you’ve personally experienced or witnessed or an experience told to you by a friend, parent, TV personality, etc. 
 
 The premises provide _some_ evidence to build a conclusion. This conclusion might not be true if you’re just pulling from a one-time occurrence or a handful of experiences. Conclusions derived from induction don’t make them the truth. They show the probability of an event occurring. 
+## Onset of Inductive reasoning in humans
+Jean Piaget theorized that children develop inductive reasoning around age 7. e.g. Child touches a hot stove and burn their hand. So, they're careful around hot stoves in the future. 
 
-# Example use
+# [[Correlation]] and Inductive Reasoning
+Often, inductive reasoning involves observing correlations in the real world. For instance, we might observe that when one event happens, another event tends to follow. 
+
+> However, it's crucial to understand that correlation does not imply causation. Just because two variables change together doesn't mean one causes the other. 
+
+Distinguishing between mere correlation and actual causation is vital for forming accurate conclusions based on observations.
+
+e.g. During summer, ice cream sales and drowning incidents increase, this doesn't mean one causes the other. Instead, an external factor, the weather affects both variables.
+# Examples of Inductive Reasoning
 ## Example 1
 After multiple days of leaving for work at different times, you've concluded that **If I leave for work at < time > , I can avoid traffic.** What reasoning is this?
 
@@ -36,9 +46,6 @@ You’ll use **inductive reasoning**.
 Induction moves from specific instances (many days of sunrise) to a general expectation about a future instance.  
 
 *(If you started with the scientific premise “the Earth rotates west‑to‑east” and then derived that the Sun appears to rise in the east, that would be deductive reasoning. But in everyday life we usually rely on the observed regularity, which is inductive.)*
-
-# Onset of Inductive reasoning in humans
-Jean Piaget theorized that children develop inductive reasoning around age 7. e.g. Child touches a hot stove and burn their hand. So, they're careful around hot stoves in the future. 
 # Quiz Yourself
 This is the most important part. When you step out, look at your different reasonings and see if you're coming to the conclusion based off of your experiences (inductive), or based on data (deductive). 
 

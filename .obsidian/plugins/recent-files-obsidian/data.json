@@ -5,8 +5,16 @@
       "path": "deductive reasoning.md"
     },
     {
+      "basename": "syllogism",
+      "path": "syllogism.md"
+    },
+    {
       "basename": "inductive reasoning",
       "path": "inductive reasoning.md"
+    },
+    {
+      "basename": "correlation",
+      "path": "correlation.md"
     },
     {
       "basename": "heuristic",

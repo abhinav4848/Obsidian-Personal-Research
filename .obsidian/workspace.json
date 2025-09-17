@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "deductive reasoning"
             }
+          },
+          {
+            "id": "9b78dcac4be0e4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "syllogism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "syllogism"
+            }
           }
         ],
         "currentTab": 1
@@ -119,8 +143,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +276,10 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
+    "syllogism.md",
     "deductive reasoning.md",
     "inductive reasoning.md",
+    "correlation.md",
     "heuristic.md",
     "Own notes/Philosophy/philosophy reference/George Orwell.md",
     "desktop.ini",
@@ -278,8 +303,6 @@
     "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
     "Own notes/Philosophy/philosophy reference/Freidrich Hegel.md",
     "Own notes/Philosophy/philosophy reference/Epicurus.md",
-    "Own notes/Philosophy/philosophy reference/Diogenes.md",
-    "Own notes/Philosophy/philosophy reference/Bertrand Russell.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
