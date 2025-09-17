@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epistemology.md",
+                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "epistemology"
+              "title": "George Orwell"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "empiri",
+                "query": "plato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "epistemology.md",
+                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for epistemology"
+              "title": "Backlinks for George Orwell"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "epistemology.md",
+                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from epistemology"
+              "title": "Outgoing links from George Orwell"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "epistemology.md",
+                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of epistemology"
+              "title": "Outline of George Orwell"
             }
           },
           {
@@ -226,10 +226,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "epistemology.md"
+                "file": "Own notes/Philosophy/philosophy reference/George Orwell.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for epistemology"
+              "title": "File properties for George Orwell"
             }
           }
         ]
@@ -252,48 +252,48 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
-    "empiricism.md",
-    "heuristic.md",
-    "epistemology.md",
-    "inductive reasoning.md",
-    "Own notes/Concepts/useful websites and links.md",
-    "deductive reasoning.md",
+    "Own notes/Philosophy/philosophy reference/Aldous Huxley.md",
+    "Own notes/Philosophy/philosophy reference/George Orwell.md",
+    "Own notes/Philosophy/philosophy reference/existentialists.md",
+    "Own notes/Philosophy/philosophy reference/Xenophon.md",
+    "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
+    "Own notes/Philosophy/philosophy reference/Stoicism.md",
+    "Own notes/Philosophy/philosophy reference/Seneca.md",
+    "Own notes/Philosophy/philosophy reference/Epictetus.md",
+    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
+    "Own notes/Philosophy/philosophy reference/Socrates.md",
+    "Own notes/Philosophy/philosophy reference/Sisyphus.md",
+    "Own notes/Philosophy/philosophy reference/Simon Blackburn.md",
+    "Own notes/Philosophy/philosophy reference/Robert Nozick.md",
+    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
+    "Own notes/Philosophy/philosophy reference/Plato.md",
+    "Own notes/Philosophy/philosophy reference/Nietzsche.md",
+    "Own notes/Philosophy/philosophy reference/Lev Vygotsky.md",
+    "Own notes/Philosophy/philosophy reference/Jean-Jacques Rousseau.md",
+    "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
+    "Own notes/Philosophy/philosophy reference/Freidrich Hegel.md",
+    "Own notes/Philosophy/philosophy reference/Epicurus.md",
+    "Own notes/Philosophy/philosophy reference/Diogenes.md",
+    "Own notes/Philosophy/philosophy reference/Bertrand Russell.md",
+    "Own notes/Philosophy/philosophy reference/Aristotle.md",
+    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
+    "Own notes/Philosophy/philosophy reference/Albert Camus.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
     "_attachments/Pasted image 20250914005223.png",
     "_attachments",
     "Own notes/_attachments/response to change 2.png",
-    "Own notes/Concepts/Emergence.md",
-    "emergence (defn).md",
     "Untitled.base",
-    "Own notes/Concepts/idea emergence.md",
     "desktop.ini",
-    "Own notes/Concepts/how to do a good lecture.md",
-    "Own notes/Philosophy/Essays/What is a good life.md",
     "rename-to-lower.ps1",
     "Own notes/rename-to-lower.ps1",
     "Own notes/_attachments/how antidepressants are expected to work.png",
     "Own notes/_attachments/dunning kruger effect- original guide.png",
     "Own notes/_attachments/dunning kruger effect- fancy names of each point.png",
     "Own notes/_attachments/dunning kruger effect in business.png",
-    "Own notes/Books/the psychology of money.md",
-    "Own notes/Books/The Psychology of Money.md",
     "Own notes/rename-to-lower.sh",
     "Own notes/_attachments/Spaced Repetition- Before and after.png",
-    "readme.md",
-    "Own notes/Rules, Laws/schwartz round.md",
-    "Own notes/Rules, Laws/premack principle.md",
-    "Own notes/Rules, Laws/no true scotsman fallacy.md",
-    "Own notes/Rules, Laws/dunning kruger effect.md",
-    "Own notes/Rules, Laws/balint group.md",
-    "Own notes/Rituals/perfect day exercise.md",
-    "Own notes/Public People/rockerfeller.md",
-    "Own notes/Public People/martha beck (life coach).md",
-    "Own notes/Public People/brian cox (british physicist).md",
-    "Own notes/History & Myths/hellenistic world.md",
-    "Own notes/Facts/types of christianity.md",
-    "Own notes/Facts/reward system of the brain.md",
     "Own notes/Facts/reward system of the brain (flowchart).canvas",
     "rename-to-lower.sh",
     "New Text Document.txt",

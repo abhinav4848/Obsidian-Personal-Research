@@ -1,6 +1,8 @@
 ---
 URLs:
   - https://en.wikipedia.org/wiki/Lev_Vygotsky
+tags:
+  - psychologist
 ---
 1896 – 1934 (age 37, USSR)
  Best known for his work on *psychological development in children* and creating the framework known as *cultural-historical activity theory*.

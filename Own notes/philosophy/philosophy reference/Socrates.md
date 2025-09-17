@@ -1,6 +1,8 @@
 ---
 URLs:
   - https://en.wikipedia.org/wiki/Socrates
+tags:
+  - philosophers
 ---
 Ancient Greek (Athens) father of Western Ethics. Founder of western philosophy. Born in 470BC. 
 
