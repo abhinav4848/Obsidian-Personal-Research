@@ -14,3 +14,6 @@ In top-down, you start with generalization and narrow down to a specific case. I
 # Onset of deductive reasoning
 Deductive reasoning comes to children at ages 11-12. It's a form of top-down logic to [[inductive reasoning|inductive's]] bottom up logic.
 
+
+# Reference
+1. 

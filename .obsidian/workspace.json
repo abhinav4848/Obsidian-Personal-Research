@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heuristic.md",
+                "file": "deductive reasoning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "heuristic"
+              "title": "deductive reasoning"
             }
           }
         ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heuristic.md",
+                "file": "deductive reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heuristic"
+              "title": "Backlinks for deductive reasoning"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "heuristic.md",
+                "file": "deductive reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from heuristic"
+              "title": "Outgoing links from deductive reasoning"
             }
           },
           {
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "heuristic.md",
+                "file": "deductive reasoning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of heuristic"
+              "title": "Outline of deductive reasoning"
             }
           },
           {
@@ -227,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "heuristic.md"
+                "file": "deductive reasoning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for heuristic"
+              "title": "File properties for deductive reasoning"
             }
           }
         ]
@@ -253,6 +253,9 @@
   },
   "active": "158f6f1bce2e5c00",
   "lastOpenFiles": [
+    "deductive reasoning.md",
+    "inductive reasoning.md",
+    "heuristic.md",
     "Own notes/Philosophy/philosophy reference/George Orwell.md",
     "desktop.ini",
     "Own notes/Philosophy/philosophy reference/Aldous Huxley.md",
@@ -277,8 +280,6 @@
     "Own notes/Philosophy/philosophy reference/Epicurus.md",
     "Own notes/Philosophy/philosophy reference/Diogenes.md",
     "Own notes/Philosophy/philosophy reference/Bertrand Russell.md",
-    "Own notes/Philosophy/philosophy reference/Aristotle.md",
-    "Own notes/Philosophy/philosophy reference/Anarchy, State, and Utopia (1974).md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
