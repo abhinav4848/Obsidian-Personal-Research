@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "how do we communicate",
-      "path": "how do we communicate.md"
+      "basename": "correlation does not imply causation",
+      "path": "correlation does not imply causation.md"
+    },
+    {
+      "basename": "correlation",
+      "path": "correlation.md"
+    },
+    {
+      "basename": "how to do a good lecture",
+      "path": "Own notes/Concepts/how to do a good lecture.md"
     },
     {
       "basename": "deductive reasoning",
       "path": "deductive reasoning.md"
+    },
+    {
+      "basename": "how do we communicate",
+      "path": "how do we communicate.md"
     },
     {
       "basename": "syllogism",
@@ -15,10 +27,6 @@
     {
       "basename": "inductive reasoning",
       "path": "inductive reasoning.md"
-    },
-    {
-      "basename": "correlation",
-      "path": "correlation.md"
     },
     {
       "basename": "heuristic",
@@ -153,10 +161,6 @@
       "path": "Own notes/Concepts/idea emergence.md"
     },
     {
-      "basename": "how to do a good lecture",
-      "path": "Own notes/Concepts/how to do a good lecture.md"
-    },
-    {
       "basename": "What is a good life",
       "path": "Own notes/Philosophy/Essays/What is a good life.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1984 (1949)",
       "path": "Own notes/Philosophy/philosophy reference/1984 (1949).md"
-    },
-    {
-      "basename": "amygdala",
-      "path": "Own notes/Facts/amygdala.md"
     }
   ],
   "omittedPaths": [],

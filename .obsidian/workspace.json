@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90566c14f62237d5",
+        "id": "dc0bb6f046da1f07",
         "type": "tabs",
         "children": [
           {
-            "id": "4539ff4585eb769d",
+            "id": "68b3aea8aeac07b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Own notes/Concepts/how to do a good lecture.md",
+                "file": "correlation does not imply causation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "how to do a good lecture"
-            }
-          },
-          {
-            "id": "158f6f1bce2e5c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deductive reasoning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "deductive reasoning"
-            }
-          },
-          {
-            "id": "0c16d5a36f78680e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how do we communicate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "how do we communicate"
-            }
-          },
-          {
-            "id": "9b78dcac4be0e4fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "syllogism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "syllogism"
+              "title": "correlation does not imply causation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how do we communicate.md",
+                "file": "correlation does not imply causation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for how do we communicate"
+              "title": "Backlinks for correlation does not imply causation"
             }
           },
           {
@@ -298,14 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b29ae690c7f770",
+  "active": "68b3aea8aeac07b7",
   "lastOpenFiles": [
-    "desktop.ini",
+    "correlation.md",
+    "correlation does not imply causation.md",
+    "Own notes/Concepts/how to do a good lecture.md",
     "deductive reasoning.md",
     "how do we communicate.md",
+    "desktop.ini",
     "syllogism.md",
     "inductive reasoning.md",
-    "correlation.md",
     "heuristic.md",
     "Own notes/Philosophy/philosophy reference/George Orwell.md",
     "Own notes/Philosophy/philosophy reference/Aldous Huxley.md",
@@ -325,7 +254,6 @@
     "Own notes/Philosophy/philosophy reference/Nietzsche.md",
     "Own notes/Philosophy/philosophy reference/Lev Vygotsky.md",
     "Own notes/Philosophy/philosophy reference/Jean-Jacques Rousseau.md",
-    "Own notes/Philosophy/philosophy reference/Immanuel Kant.md",
     "_attachments/deduction vs induction.jpg",
     "_attachments/Pasted image 20250914005311.png",
     "_attachments/Pasted image 20250914005228.png",
