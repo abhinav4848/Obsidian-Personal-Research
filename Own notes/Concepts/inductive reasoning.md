@@ -20,7 +20,7 @@ The premises provide _some_ evidence to build a conclusion. This conclusion mi
 ## Onset of Inductive reasoning in humans
 Jean Piaget theorized that children develop inductive reasoning around age 7. e.g. Child touches a hot stove and burn their hand. So, they're careful around hot stoves in the future. 
 
-# [[Correlation]] and Inductive Reasoning
+# [[correlation]] and Inductive Reasoning
 Often, inductive reasoning involves observing correlations in the real world. For instance, we might observe that when one event happens, another event tends to follow. 
 
 > However, it's crucial to understand that correlation does not imply causation. Just because two variables change together doesn't mean one causes the other. 

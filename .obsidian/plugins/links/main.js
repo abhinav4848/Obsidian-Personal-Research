@@ -3528,7 +3528,10 @@ var ConvertLinkToWikilinkCommand = class extends CommandBase {
   }
   convertLinkToWikiLink(linkData, editor) {
     const link = linkData.type === 1 /* Markdown */ ? linkData.destination ? decodeURI(linkData.destination.content) : "" : linkData.destination;
-    const text = linkData.text ? linkData.text.content !== link ? "|" + linkData.text.content : "" : "";
+    let text = linkData.text ? linkData.text.content !== link ? "|" + linkData.text.content : "" : "";
+    if (linkData.destinationType === DestinationType.Image && linkData.imageDimensions) {
+      text = text + "|" + linkData.imageDimensions.width;
+    }
     const embededSymbol = linkData.embedded ? "!" : "";
     const rawLinkText = `${embededSymbol}[[${link}${text}]]`;
     editor.replaceRange(

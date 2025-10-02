@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0bb6f046da1f07",
+        "id": "ed7d3dce7c43f032",
         "type": "tabs",
         "children": [
           {
-            "id": "68b3aea8aeac07b7",
+            "id": "803b4e6f6702005b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "correlation does not imply causation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.9.14"
               },
-              "icon": "lucide-file",
-              "title": "correlation does not imply causation"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -114,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "correlation does not imply causation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for correlation does not imply causation"
+              "title": "Backlinks"
             }
           },
           {
@@ -162,23 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how do we communicate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how do we communicate"
-            }
-          },
-          {
-            "id": "f26a60f4f862ead2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           },
           {
@@ -207,11 +183,12 @@
               "title": "File properties for how do we communicate"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 566.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,56 +202,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68b3aea8aeac07b7",
+  "active": "803b4e6f6702005b",
   "lastOpenFiles": [
-    "correlation.md",
-    "deductive reasoning.md",
-    "syllogism.md",
-    "Own notes/Books/the psychology of money.md",
-    "correlation does not imply causation.md",
-    "Own notes/Concepts/how to do a good lecture.md",
-    "how do we communicate.md",
-    "desktop.ini",
-    "inductive reasoning.md",
-    "heuristic.md",
-    "Own notes/Philosophy/philosophy reference/George Orwell.md",
-    "Own notes/Philosophy/philosophy reference/Aldous Huxley.md",
-    "Own notes/Philosophy/philosophy reference/existentialists.md",
-    "Own notes/Philosophy/philosophy reference/Xenophon.md",
+    "Own notes/readme.md",
+    "Own notes/Rules, Laws/_attachments/response to change.png",
+    "Own notes/Rules, Laws/schwartz round.md",
+    "Own notes/Rules, Laws/_attachments",
+    "Own notes/Rules, Laws/response to change.md",
+    "Own notes/Rules, Laws/no true scotsman fallacy.md",
+    "Own notes/Rules, Laws/premack principle.md",
+    "Own notes/Rules, Laws/dunning kruger effect.md",
+    "Own notes/Rules, Laws/five stages of grief.md",
+    "Own notes/Rules, Laws/balint group.md",
+    "Own notes/Rules, Laws",
+    "Own notes/Rituals/perfect day exercise.md",
+    "Own notes/Rituals",
+    "Own notes/Public People/martha beck (life coach).md",
+    "Own notes/Public People/rockerfeller.md",
+    "Own notes/Public People/brian cox (british physicist).md",
+    "Own notes/Public People",
+    "Own notes/Philosophy/philosophy reference/_attachments/mediocrtates.png",
+    "Own notes/Philosophy/philosophy reference/_attachments/78prgo8dcoo61 now farewell, and remember all my words- epicurus.png",
+    "Own notes/Philosophy/philosophy reference/_attachments",
     "Own notes/Philosophy/philosophy reference/Thomas Hobbes.md",
-    "Own notes/Philosophy/philosophy reference/Stoicism.md",
-    "Own notes/Philosophy/philosophy reference/Seneca.md",
-    "Own notes/Philosophy/philosophy reference/Epictetus.md",
-    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
+    "Own notes/Philosophy/philosophy reference/Xenophon.md",
     "Own notes/Philosophy/philosophy reference/Socrates.md",
+    "Own notes/Philosophy/philosophy reference/Stoicism.md",
     "Own notes/Philosophy/philosophy reference/Sisyphus.md",
     "Own notes/Philosophy/philosophy reference/Simon Blackburn.md",
-    "Own notes/Philosophy/philosophy reference/Robert Nozick.md",
-    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
+    "Own notes/Philosophy/philosophy reference/Seneca.md",
     "Own notes/Philosophy/philosophy reference/Plato.md",
+    "Own notes/Philosophy/philosophy reference/Robert Nozick.md",
     "Own notes/Philosophy/philosophy reference/Nietzsche.md",
+    "Own notes/Philosophy/philosophy reference/Rene Descartes.md",
     "Own notes/Philosophy/philosophy reference/Lev Vygotsky.md",
-    "_attachments/deduction vs induction.jpg",
-    "_attachments/Pasted image 20250914005311.png",
-    "_attachments/Pasted image 20250914005228.png",
-    "_attachments/Pasted image 20250914005223.png",
-    "_attachments",
-    "Own notes/_attachments/response to change 2.png",
-    "Untitled.base",
-    "rename-to-lower.ps1",
-    "Own notes/rename-to-lower.ps1",
-    "Own notes/_attachments/how antidepressants are expected to work.png",
-    "Own notes/_attachments/dunning kruger effect- original guide.png",
-    "Own notes/_attachments/dunning kruger effect- fancy names of each point.png",
-    "Own notes/_attachments/dunning kruger effect in business.png",
-    "Own notes/rename-to-lower.sh",
-    "Own notes/_attachments/Spaced Repetition- Before and after.png",
+    "Own notes/Philosophy/philosophy reference/Marcus Aurelius.md",
+    "Own notes/Philosophy/philosophy reference/Jean-Jacques Rousseau.md",
+    "Own notes/Philosophy/philosophy reference",
+    "Own notes/Philosophy/Essays",
+    "Own notes/Philosophy",
+    "Own notes/History & Myths",
+    "Own notes/Facts/_attachments/nucleus accumbens.png",
+    "Own notes/Facts/_attachments",
     "Own notes/Facts/reward system of the brain (flowchart).canvas",
-    "rename-to-lower.sh",
-    "New Text Document.txt",
+    "Own notes/_attachments/spaced repetition- revision excel sheet used by ali abdaal.png",
+    "Own notes/_attachments/spaced repetition- forgetting curve dark bg.png",
+    "Own notes/_attachments/spaced repetition- effectiveness of different study methods.png",
+    "Own notes/_attachments/spaced repetition- before and after.png",
+    "Own notes/_attachments/dunning kruger effect- original guide.png",
+    "Own notes/_attachments/response to change 2.png",
     "Own notes/Facts/Reward system of the brain (flowchart).canvas",
-    "Own notes/Rules, Laws/_attachments",
-    "Own notes/_attachments",
     "making canvas in obsidian.canvas",
     "test canvas qwertyuiovosdkfhaks.canvas"
   ]
