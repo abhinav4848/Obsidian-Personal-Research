@@ -9,20 +9,24 @@
       "path": "correlation.md"
     },
     {
-      "basename": "how to do a good lecture",
-      "path": "Own notes/Concepts/how to do a good lecture.md"
-    },
-    {
       "basename": "deductive reasoning",
       "path": "deductive reasoning.md"
     },
     {
-      "basename": "how do we communicate",
-      "path": "how do we communicate.md"
-    },
-    {
       "basename": "syllogism",
       "path": "syllogism.md"
+    },
+    {
+      "basename": "the psychology of money",
+      "path": "Own notes/Books/the psychology of money.md"
+    },
+    {
+      "basename": "how to do a good lecture",
+      "path": "Own notes/Concepts/how to do a good lecture.md"
+    },
+    {
+      "basename": "how do we communicate",
+      "path": "how do we communicate.md"
     },
     {
       "basename": "inductive reasoning",
@@ -195,10 +199,6 @@
     {
       "basename": "perception",
       "path": "Own notes/Facts/perception.md"
-    },
-    {
-      "basename": "1984 (1949)",
-      "path": "Own notes/Philosophy/philosophy reference/1984 (1949).md"
     }
   ],
   "omittedPaths": [],
